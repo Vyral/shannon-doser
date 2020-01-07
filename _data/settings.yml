@@ -1,6 +1,6 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: Kansas City Real Estate Video Blog with Shannon Doser
+description: Our mission at SDG and Associates is to be your best resource for Kansas City real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The SDG and Associates, your professional Kansas City Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,21 +11,21 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Shannon Doser
   title:
   license_number:
   about_markdown: |
-
-  brand:
+    At SDG, your needs come first! We strive to be the most respected, loyal and dedicated TEAM of specialists in the Kansas City real estate industry. We sold over 20 million dollars in real estate last year!
+  brand: SDG and Associates
   brokerage:
-  market:
-  address:
-  phone:
+  market: Kansas City
+  address: 6850 College Blvd Overland Park,KS 66211
+  phone: 913-906-5489
   phone_type:
   phone2:
   phone2_type:
   email:
-  url:
+  url: http://www.SDGandAssociates.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -35,15 +35,15 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your Kansas City Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
     CTA_url: /homevalue/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+    CTA_title2: "Looking for a Kansas City Home?"
+    CTA_text2: "Search the entire MLS for your Kansas City home."
     CTA_link_text2: "Search the MLS"
     CTA_url2: /homesearch/
 
@@ -66,7 +66,7 @@ socials:
   linkedin_url:
   youtube_url:
   twitter_url:
-  instagram_url:
+  instagram_url: https://www.instagram.com/sdgandassociates/
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -74,19 +74,19 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Kansas City Real Estate Podcast with Shannon Doser'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Kansas City Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from SDG and Associates - your professional Kansas City Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Shannon Doser'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Kansas City Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -95,7 +95,7 @@ images:
 
 site_colors:
   brand_color: '#b40101'
-  theme_color: '#999'
+  theme_color: '#050708'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -104,7 +104,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: '#b40101'
 
 buttons:
   button_radius_number: 0
