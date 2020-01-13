@@ -27,10 +27,23 @@
             </option>
         </select>
         <!--2-->
-        <label for="footage">
-            What is the square footage?
+        <label for="garage">
+            How many garages does your property have?
         </label>
-        <input type="text" name="footage" />
+        <select name="type">
+            <option value="-Select-" selected="selected">
+                -Select-
+            </option>
+            <option value="1">
+                1
+            </option>
+            <option value="2">
+                2
+            </option>
+            <option value="3+">
+                3+
+            </option>
+        </select>
         <!--3-->
         <label for="bathrooms">Number of bathrooms</label>
         <select name="bathrooms">
@@ -91,7 +104,7 @@
     <fieldset>
         <!--5-->
         <label for="comments">
-            Any important features or comments?
+            Any important features or recent improvements made to the home?
         </label>
         <textarea name="comments"></textarea>
     </fieldset>
@@ -118,10 +131,20 @@
             </option>
         </select>
         <!--7-->
-        <label for="range">
-            What is your desired asking price?
+        <label for="when">
+            Is the basement/lower level finished?
         </label>
-        <input name="range">
+        <select name="basement">
+            <option value="-- Select --" selected="selected">
+                -- Select --
+            </option>
+            <option value="Yes">
+                Yes
+            </option>
+            <option value="No">
+                No
+            </option>
+        </select>
         <!--8-->
         <label for="name">Name<span class="asterisk">*</span>
         </label>
@@ -132,7 +155,7 @@
         </label>
         <input type="email" name="_replyto" required>
         <!--10-->
-        <label for="phone">Number
+        <label for="phone">Phone Number
         </label>
         <input type="tel" name="phone">
         <!--11-->
