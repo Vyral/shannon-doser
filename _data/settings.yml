@@ -11,7 +11,7 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Shannon Doser
   title:
   license_number:
   about_markdown: |
@@ -107,7 +107,8 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#000'
+  accent_color: '#b40101'
   theme_color: '#050708'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
