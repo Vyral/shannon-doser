@@ -1,5 +1,10 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - name: Shannon Doser
+    photo: /img/headshot.jpg
+
+  - name:
+    photo:
+
+  - name:
+    photo:
