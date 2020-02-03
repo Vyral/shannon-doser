@@ -14,7 +14,11 @@
 		            <h3>{{item.name}}</h3>
 								<div>
 									<img src="{{item.photo}}" class="item-photo">
-
+									{% if item.bio != null %}
+									<p class="client-bio">
+										{{item.bio}}
+									</p>
+									{% endif %}
 								</div>
 							</div>
 						</div>
