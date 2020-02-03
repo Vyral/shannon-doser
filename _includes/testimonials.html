@@ -11,17 +11,23 @@
 
 						<div class="item-container">
 							<div class="item">
-		            <h3>{{item.name}}</h3>
-								<div>
-									<img src="{{item.photo}}" class="item-photo">
-									{% if item.bio != null %}
-									<p class="client-bio">
-										{{item.bio}}
-									</p>
-									{% endif %}
+								<h3>{{item.name}}</h3>
+								<img src="{{item.photo}}" class="item-photo">
+								<div id="item-truncated">
+										{{item.bio | prepend: '<p class="testimonial">' | append: '</p>' | truncate: 300 }}
+								{% if item.bio.size >= 296 %}
+									<p class="expand item-toggle">Show More <i class="fa fa-plus-square-o expand"></i></p>
+								{% endif %}
+								</div>
+								<div id="item-expanded" class="item-hide">
+								{{item.bio | prepend: '<p class="testimonial">' | append: '</p>' }}
+								{% if item.bio.size >= 296 %}
+									<p class="expand item-toggle">Show Less <i class="fa fa-minus-square-o expand"></i></p>
+								{% endif %}
+								</div>
+
 								</div>
 							</div>
-						</div>
 					{% endfor %}
 				</div>
 			</div>
