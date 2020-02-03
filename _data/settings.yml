@@ -5,6 +5,8 @@ show_custom_links: true
 custom_links:
   - title: About Us
     url: /about/
+  - title: Testimonials
+    url: /testimonials/
 show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
