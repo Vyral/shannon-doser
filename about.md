@@ -89,3 +89,14 @@ Honesty, integrity, and a passion for helping others are the core of Stephanie's
 </div>
 <h3>Andy Olson</h3>
 With over 20 years of sales and marketing experience, Andy began his Real Estate career with Keller Williams in 2019. He has lived in the Kansas City area since moving from Nebraska where he graduated and attended college at Doane. Andy and his wife Jenny share 6 kids aged 12-20 and life by the family motto "Work hard, play hard." No one will work harder for his clients than Andy!
+<br><br>
+
+<hr>
+
+<div class="recruiting-photo">
+<span class="client-image-container">
+<img src="/img/court.jpg" alt="Court Hendrickson" class="client-image"/>
+</span>
+</div>
+<h3>Court Hendrickson</h3>
+From growing up as 1 of 11 children to a General Manager in the food industry and now as a Realtor, he has always focused on finding the "Win" for each person in every situation! His collegiate years led him to study Secondary Education in Pensacola Florida and then to Strategic Communications at the University of Central Oklahoma, a path that would serve him well in the ever changing world of Real Estate! In October of 2017 Court moved to Kansas City and he instantly fell in love with the people and culture of the city. A native of Oklahoma, he and Grace now proudly call KC home and look forward to their son growing up to be a Chiefs fan!

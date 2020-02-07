@@ -93,7 +93,7 @@ You did an amazing job! You and your team go above and beyond, think outside the
 Karen was easy to work with, fun but always professional.  I had limited time to buy the house as we were living outside the US at the time of our house hunt.  I only had a few days to pick something and start the process.  She dedicated two solid days just for me and worked above and beyond to work out kinks for us after I was back in England.   Thank you Karen for all your hard work!
 </p>
 <p class="testimonial-author">
-— Cheri and James Boyles
+— Cheri and James B.
 </p>
 <hr>
 
@@ -103,7 +103,7 @@ Karen was easy to work with, fun but always professional.  I had limited time to
 Karen is absolutely great to work with.  She is responsive and promptly coordinates showings providing pertinent information to base decisions on.  Karen is a pleasure to work with and flexible to meet the customer's needs.   We could not be more satisfied and highly recommend  Karen as your next realtor.
 </p>
 <p class="testimonial-author">
-— Michael and Stacey Johnson
+— Michael and Stacey J.
 </p>
 <hr>
 
@@ -113,7 +113,7 @@ Karen is absolutely great to work with.  She is responsive and promptly coordina
 Karen Hill is patient, helpful, and knowledgeable as a realtor. When my husband and I had trouble agreeing on a house, Karen mentioned finding the neighborhood that We liked best and choosing the home that way! This was helpful because one always wants to come home to the neighborhood they enjoy. Karen is always available, reliable, and thoughtful!! When we had 2 bids on the home of our dreams....Karen told us to add a note for the seller as to why we were the better bid....and we gratefully were chosen by the buyer!!!!  When we began running into complications with selling our home in another state Karen took unexpected steps to move that closing along so it would not jeopardize the closing here in Kansas. Without her extensive wisdom and experience under those tough circumstances we might STILL be trying to sell our home and buy the one here! Thank you, Karen!
 </p>
 <p class="testimonial-author">
-— Andrew and Rachel Johnson
+— Andrew and Rachel J.
 </p>
 <hr>
 
@@ -123,6 +123,6 @@ Karen Hill is patient, helpful, and knowledgeable as a realtor. When my husband 
 Karen Hill was amazing!! If it wasn't for her, our months and months of searching would have been for naught. We wanted the PERFECT home for our growing family, and she did JUST that! Definitely will be recommending her to friends and family!
 </p>
 <p class="testimonial-author">
-— Mauricio and Dorinda Rodriguez
+— Mauricio and Dorinda R.
 </p>
 <hr>
