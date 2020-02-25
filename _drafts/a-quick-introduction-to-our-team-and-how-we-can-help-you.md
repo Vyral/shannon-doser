@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/help-yt-shannon-doser.jpg
 youtube_code: 8Q6rC9tYqB0
 ---
 
-{% include youtube.html %}We had an amazing year in 2019, and with our new video blog, we’re looking forward to an even better one in 2020. Here’s what you can expect in the coming months.
+{% include youtube.html %}<center>We had an amazing year in 2019, and with our new video blog, we’re looking forward to an even better one in 2020. Here’s what you can expect in the coming months.</center>
 
 We’re here to introduce ourselves, brag about our team, and celebrate our successes in 2019. **Our names are Shannon Doser and Kami Savage and we’re with SDG and Associates and Keller Williams Realty Partners.** We have been in real estate in Kansas City for a combined 26 years and in business together for the last three-and-a-half years.&nbsp;
 
