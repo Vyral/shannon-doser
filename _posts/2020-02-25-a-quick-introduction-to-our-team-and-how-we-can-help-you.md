@@ -22,9 +22,9 @@ youtube_code: Xy4QUtkST_8
 
 &nbsp;
 
-We’re here to introduce ourselves, brag about our team, and celebrate our successes in 2019. **Our names are Shannon Doser and Kami Savage and we’re with SDG and Associates and Keller Williams Realty Partners.** We have been in real estate in Kansas City for a combined 26 years and in business together for the last three-and-a-half years.&nbsp;
+We’re here to introduce ourselves, brag about our team, and celebrate our successes in 2019. **Our names are Shannon Doser and Cami Savage and we’re with SDG and Associates and Keller Williams Realty Partners.** We have been in real estate in Kansas City for a combined 26 years and in business together for the last three-and-a-half years.&nbsp;
 
-We’ve worked with many of you one-on-one, and many of you have had the pleasure of working with one of our six talented associates: Michelle Harlow, Taryn Hill, Chondra Ward, Stephanie Vielhauer, Andy Olsen, or Court Hendrickson.
+We’ve worked with many of you one-on-one, and many of you have had the pleasure of working with one of our six talented associates: Michele Harlow, Karen Hill, Chandra Ward, Stephanie Vielhauer, Andy Olson, or Court Hendrickson.
 
 {% include pullquote.html %}
 
