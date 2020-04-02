@@ -12,7 +12,7 @@ pullquote: 'Thanks to all of you, we had an amazing year in 2019.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/help-yt-shannon-doser.jpg
+youtube_alternate_image: /uploads/doser-youtube-2.jpg
 youtube_code: Xy4QUtkST_8
 ---
 
