@@ -1,10 +1,11 @@
 ---
 layout: post
 title: The Do's and Don'ts of Travelling in 2020
-date: 2020-04-02 21:58:11
+date: 2020-04-02 21:58:00
 tags:
 excerpt: Join our conversation with Tracy Gervais
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shannon+Doser/2020/GMT20200401-213456_Shannon-Do_640x360.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
