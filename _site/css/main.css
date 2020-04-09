@@ -2585,6 +2585,10 @@ form select {
 .site-title {
   margin-top: 13rem; }
 
+.social-testimonial {
+  margin: 2rem;
+  width: 100%; }
+
 .recruiting {
   text-align: center; }
 

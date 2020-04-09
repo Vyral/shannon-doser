@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from SDG and Associates - your professional Kansas City Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Shannon Doser</managingEditor>
-    <lastBuildDate>2020-02-07 15:10:52 -0600</lastBuildDate>
+    <lastBuildDate>2020-04-09 10:48:38 -0500</lastBuildDate>
     <media:copyright>Shannon Doser</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,47 +25,114 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+        <title>A Conversation with Mortgage Professionals</title>
+        <link>http://localhost:4000/a-conversation-with-mortgage-professionals.html</link>
         
         <author>Shannon Doser</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2020-04-02 17:49:10 -0500</pubDate>
+        <guid>BGVi7hIAyXo</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Our guests are two highly respected Mortgage Professionals with Fairway Mortgage that will answer questions about what has happened these past 2 weeks and the implications for you and your family!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="BGVi7hIAyXo" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="BGVi7hIAyXo" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>
+
+</itunes:subtitle>
         <itunes:author>Shannon Doser</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>
+
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
+        <title>The Do's and Don'ts of Travelling in 2020</title>
+        <link>http://localhost:4000/the-dos-and-donts-of-travelling-in-2020.html</link>
+        
+        <author>Shannon Doser</author>
+        <pubDate>2020-04-02 16:58:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Shannon+Doser/2020/GMT20200401-213456_Shannon-Do_640x360.mp4</guid>
+        <description>
+
+Today’s featured guest is Tracy Gervais, a local travel agent. Join us as we discuss the DOs and DON’Ts of travel in 2020!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Shannon+Doser/2020/GMT20200401-213456_Shannon-Do_640x360.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Shannon+Doser/2020/GMT20200401-213456_Shannon-Do_640x360.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Join our conversation with Tracy Gervais</itunes:subtitle>
+        <itunes:author>Shannon Doser</itunes:author>
+        <itunes:summary>Join our conversation with Tracy Gervais</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Conversation with Amber and Frank, CPAs</title>
+        <link>http://localhost:4000/conversation-with-amber-and-frank-cpas.html</link>
+        
+        <author>Shannon Doser</author>
+        <pubDate>2020-04-01 13:11:38 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Shannon+Doser/2020/GMT20200331-213129_Shannon-Do_640x360.mp4</guid>
+        <description>
+
+Catch up with Shannon from her conversation with Amber Goerging and Frank Granatino from Goerging &amp; Granatino Public Accounting Firm by watching the recorded Zoom video above!
+
+Check out their COVID-19 resources on their website: https://www.ggkccpa.com/category/covid-19/
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Shannon+Doser/2020/GMT20200331-213129_Shannon-Do_640x360.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Shannon+Doser/2020/GMT20200331-213129_Shannon-Do_640x360.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>March 31 SDG Virtual Cafe</itunes:subtitle>
+        <itunes:author>Shannon Doser</itunes:author>
+        <itunes:summary>March 31 SDG Virtual Cafe</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Quick Introduction to Our Team and How We Can Help You</title>
+        <link>http://localhost:4000/a-quick-introduction-to-our-team-and-how-we-can-help-you.html</link>
+        
+        <author>Shannon Doser</author>
+        <pubDate>2020-02-25 11:13:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+We had an amazing year in 2019, and with our new video blog, we&rsquo;re looking forward to an even better one in 2020. Here&rsquo;s what you can expect in the coming months.
+
+ 
+
+We’re here to introduce ourselves, brag about our team, and celebrate our successes in 2019. Our names are Shannon Doser and Cami Savage and we’re with SDG and Associates and Keller Williams Realty Partners. We have been in real estate in Kansas City for a combined 26 years and in business together for the last three-and-a-half years. 
+
+We’ve worked with many of you one-on-one, and many of you have had the pleasure of working with one of our six talented associates: Michele Harlow, Karen Hill, Chandra Ward, Stephanie Vielhauer, Andy Olson, or Court Hendrickson.
+
+“Thanks to all of you, we had an amazing year in 2019.”
+
+We want to thank all of you for an amazing 2019. Together, we helped 90 families buy and sell their homes across the KC Metro. With nearly $28 million in closed volume, we’re proud to say that 95% of our business came from referrals, past clients, our trusted vendor partners, and the relationships we have with agents around the country.
+
+As we look forward to 2020, we are encouraged that national home equity is forecasted to rise between 2.5% and 3.5%, which is great news for everyone.
+
+Throughout this year, you’ll be hearing from all of us as we share valuable info about the housing market, helpful tips for taking care of your own home, and special events that we’re hosting in 2020.
+
+If you have any questions for us in the meantime or any real estate needs that we can assist with, feel free to reach out to us via phone or email. We look forward to hearing from you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We had an amazing year in 2019, and with our new video blog, we’re looking forward to an even better one in 2020. Here’s what you can expect in the coming months.</itunes:subtitle>
+        <itunes:author>Shannon Doser</itunes:author>
+        <itunes:summary>We had an amazing year in 2019, and with our new video blog, we’re looking forward to an even better one in 2020. Here’s what you can expect in the coming months.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Welcome To Our Blog</title>
+        <link>http://localhost:4000/welcome-to-our-blog.html</link>
         
           <category>Market Update</category>
         
@@ -74,47 +141,27 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
           <category>Home Seller Tips</category>
         
         <author>Shannon Doser</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
+        <pubDate>2020-02-08 18:00:00 -0600</pubDate>
         <guid></guid>
-        <description>
+        <description>Our market remains busy, and it’s still an opportune time to command a high price selling your home.  
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+We know what’s happening in the KC Metro area, specifically pertaining to home values, that will directly affect you.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+So, we’ll be posting two monthly video messages on this blog to keep you updated. 
 
+They will be valuable and useful in helping you stay on top of what’s happening in the community.
 
+Check back because content will be coming soon!
 
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+We’re excited to keep you updated on what’s happening in the KC Metro area!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="" length="" type=""/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="" type=""/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Our monthly messages will provide you with market updates, tips, and other educational information having to do with our market.</itunes:subtitle>
         <itunes:author>Shannon Doser</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Our monthly messages will provide you with market updates, tips, and other educational information having to do with our market.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       

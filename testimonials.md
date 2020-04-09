@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: testimonials
 title: Testimonials
 permalink: /testimonials/
 ---

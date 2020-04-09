@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/a-fox-in-space.html</loc>
-<lastmod>2018-05-07T00:00:00-05:00</lastmod>
+<loc>http://localhost:4000/welcome-to-our-blog.html</loc>
+<lastmod>2020-02-08T18:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/this-is-a-test-post-copy-2.html</loc>
-<lastmod>2018-05-10T00:00:00-05:00</lastmod>
+<loc>http://localhost:4000/a-quick-introduction-to-our-team-and-how-we-can-help-you.html</loc>
+<lastmod>2020-02-25T11:13:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/conversation-with-amber-and-frank-cpas.html</loc>
+<lastmod>2020-04-01T13:11:38-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/the-dos-and-donts-of-travelling-in-2020.html</loc>
+<lastmod>2020-04-02T16:58:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/a-conversation-with-mortgage-professionals.html</loc>
+<lastmod>2020-04-02T17:49:10-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
