@@ -4,9 +4,7 @@ title: NEW LISTING - Updates Galore in Olathe Trails! HURRY! Move Right In!
 date: 2020-04-06 00:00:00
 tags:
   - Real Estate
-excerpt: >-
-  Take a video tour of 16400 W 125th Terrace in Olathe Trails. See full details
-  at: http://125th.SDGandAssociates.com
+excerpt: Take a video tour of 16400 W 125th Terrace in Olathe Trails.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -15,6 +13,8 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 'https://youtu.be/VPbURQxmjqk'
 ---
+
+See full details at: http://125th.SDGandAssociates.com
 
 {% include youtube.html %}
 
