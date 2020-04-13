@@ -14,7 +14,7 @@ youtube_alternate_image:
 youtube_code: 'https://youtu.be/VPbURQxmjqk'
 ---
 
-See full details at: http://125th.SDGandAssociates.com
+### **See full details at:&nbsp; [125th.SDGandAssociates.com](http://125th.SDGandAssociates.com){: target="_blank"}**
 
 {% include youtube.html %}
 
