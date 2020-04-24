@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/hx6Md77j3K0'
 
 {% include youtube.html %}
 
-Welcome home to 712 N. Singletree Street in the highly sought-after Persimmon Hill community of Olathe. This COMPLETELY RENOVATED 4 bedroom, 2 full and 1 half bath, 2-story home offers 2,650 square feet of move-in ready living space. You will appreciate the gorgeous new flooring, carpet, eat-in kitchen, plus the beautifully updated baths. The treed lot, huge fenced yard and giant deck are perfect for outdoor entertaining\!
+Welcome home to [712 N. Singletree Street](http://singletree.ihousenet.com/){: target="_blank"} in the highly sought-after Persimmon Hill community of Olathe. This COMPLETELY RENOVATED 4 bedroom, 2 full and 1 half bath, 2-story home offers 2,650 square feet of move-in ready living space. You will appreciate the gorgeous new flooring, carpet, eat-in kitchen, plus the beautifully updated baths. The treed lot, huge fenced yard and giant deck are perfect for outdoor entertaining\!
 
 Be welcomed home by a grassy front yard with beautiful blossoming tree inviting you to the charming and expansive front porch. What a relaxing spot to enjoy your morning coffee, or a cool glass of lemonade while chatting with a friend.
 
