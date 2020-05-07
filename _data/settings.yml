@@ -73,7 +73,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://sdgandassociates.kw.com/search'
+  second_CTA_URL: 'https://sdgandassociates.kw.com/search/KS/Overland%20Park'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What's Your Home Worth?
