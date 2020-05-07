@@ -1,6 +1,12 @@
 audit_header: false
 title: Kansas City Real Estate
-description: Our mission at SDG and Associates is to be your best resource for Kansas City real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The SDG and Associates, your professional Kansas City Real Estate Agents.
+description: >-
+  Our mission at SDG and Associates is to be your best resource for Kansas City
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The SDG and Associates, your
+  professional Kansas City Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: About Us
@@ -13,57 +19,73 @@ show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
     url:
-
 client:
   name: Shannon Doser
   title:
   license_number:
-  about_markdown: |
-    I’ve been working in real estate since 2006 and am fortunate that I get to lead a talented group of Realtors that work together under the name SDG and Associates. Together we have helped thousands of people buy, sell, and invest in Real Estate over the past 13 years.
+  about_markdown: >-
+    I’ve been working in real estate since 2006 and am fortunate that I get to
+    lead a talented group of Realtors that work together under the name SDG and
+    Associates. Together we have helped thousands of people buy, sell, and
+    invest in Real Estate over the past 13 years.
 
-    We strive to be a down-to-earth team that focuses on our 3 GUIDING PRINCIPLES:<br>
-      ● Serve with integrity<br>
-      ● Deliver on promises<br>
-      ● Give to others
 
-    While the industry has changed significantly in the past decade, we have focused on staying in front of technology. We realize that the REAL value we bring to our clients is through our expertise in the real estate process, and most importantly, our negotiating skills.
+    We strive to be a down-to-earth team that focuses on our 3 GUIDING
+    PRINCIPLES:<br>● Serve with integrity<br>● Deliver on promises<br>● Give to
+    others
 
-    Anyone with a real estate license can open a door, search the internet, and fill out a contract. I don’t think you should be satisfied with that level of service! We are here to help people understand a process they may only go through once every 7 to 15 years. We will always be honest, represent YOUR interests, and protect you from making a mistake that could cost your family tens of thousands of dollars.
 
-    Over 90% of our business is generated from referrals by friends, family, past clients, and fellow agents across the U.S. That should be an indication as to what our priorities are and what our service is like. Our reputation is our most valuable asset and we never take it for granted. Thank you for the opportunity to earn your business!
+    While the industry has changed significantly in the past decade, we have
+    focused on staying in front of technology. We realize that the REAL value we
+    bring to our clients is through our expertise in the real estate process,
+    and most importantly, our negotiating skills.
+
+
+    Anyone with a real estate license can open a door, search the internet, and
+    fill out a contract. I don’t think you should be satisfied with that level
+    of service\! We are here to help people understand a process they may only
+    go through once every 7 to 15 years. We will always be honest, represent
+    YOUR interests, and protect you from making a mistake that could cost your
+    family tens of thousands of dollars.
+
+
+    Over 90% of our business is generated from referrals by friends, family,
+    past clients, and fellow agents across the U.S. That should be an indication
+    as to what our priorities are and what our service is like. Our reputation
+    is our most valuable asset and we never take it for granted. Thank you for
+    the opportunity to earn your business\!
+
 
     Shannon
   brand: SDG and Associates
   brokerage:
   market: Kansas City
-  address: 6850 College Blvd Overland Park,KS 66211
+  address: '6850 College Blvd Overland Park,KS 66211'
   phone: 913-906-5489
   phone_type:
   phone2:
   phone2_type:
   email: Hello@SDGandAssociates.com
-  url: http://www.SDGandAssociates.com
-
+  url: 'http://www.SDGandAssociates.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: https://thedosergroup.kw.com/search
-
+  second_CTA_URL: 'https://sdgandassociates.kw.com/search'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What's Your Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
+    CTA_title: What's Your Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
     CTA_url: /homevalue/
-
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a Home in the Kansas City Area?"
-    CTA_text2: "Search the entire MLS for your Kansas City home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: https://thedosergroup.kw.com/search
-
+    CTA_title2: Looking for a Home in the Kansas City Area?
+    CTA_text2: Search the entire MLS for your Kansas City home.
+    CTA_link_text2: Search the MLS
+    CTA_url2: 'https://thedosergroup.kw.com/search'
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -76,60 +98,66 @@ lender:
   phone:
   email:
   url:
-
 socials:
   review_sm_icons: false
-  facebook_url: https://business.facebook.com/sdgandassoc/?business_id=10153283000255325
+  facebook_url: 'https://business.facebook.com/sdgandassoc/?business_id=10153283000255325'
   linkedin_url:
-  youtube_url: https://www.youtube.com/channel/UCwDbIF-oupvCVg6d1G95sNg
-  twitter_url: https://twitter.com/SDGandAssoc
-  instagram_url: https://www.instagram.com/sdgandassociates/
+  youtube_url: 'https://www.youtube.com/channel/UCwDbIF-oupvCVg6d1G95sNg'
+  twitter_url: 'https://twitter.com/SDGandAssoc'
+  instagram_url: 'https://www.instagram.com/sdgandassociates/'
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
-  title: 'Kansas City Real Estate Podcast with Shannon Doser'
-  categories: Education
+  title: Kansas City Real Estate Podcast with Shannon Doser
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Kansas City Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from SDG and Associates - your professional Kansas City Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kansas City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Shannon Doser'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Kansas
+    City Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from SDG and Associates - your professional
+    Kansas City Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Kansas City,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
+  author: Shannon Doser
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
   hero_text: Kansas City Real Estate
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
-
 site_colors:
-  brand_color: '#000'
+  brand_color: '#000000'
   accent_color: '#b40101'
   theme_color: '#050708'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#b40101'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
