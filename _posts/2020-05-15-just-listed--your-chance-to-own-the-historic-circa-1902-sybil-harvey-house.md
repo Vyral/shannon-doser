@@ -3,14 +3,7 @@ layout: post
 title: JUST LISTED ~ Your Chance to Own the Historic Circa 1902 Sybil Harvey House!
 date: 2020-05-15 20:42:00
 tags:
-excerpt: >-
-  Welcome home to 625 Olive Street in Leavenworth, the beloved
-  turn-of-the-century historic circa 1902 Sybil Harvey House. This is a historic
-  home registered with the Union Park Historic District and is part of the
-  Christmas Parade of Homes. Full of history, this two-story home is constructed
-  of smooth brick, combines Queen Anne, Romanesque, and Classical Revival
-  stylistic attributes, and was designed by famed Leavenworth architect William
-  P. Feth for the Harvey family.
+excerpt: Take a Walk-Through Video tour of this Historic home!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
