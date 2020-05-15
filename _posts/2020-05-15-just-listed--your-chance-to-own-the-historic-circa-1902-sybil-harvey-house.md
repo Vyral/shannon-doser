@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUST LISTED ~ Your Chance to Own the Historic Circa 1902 Sybil Harvey House!
-date: 2020-05-15 20:42:09
+date: 2020-05-15 20:42:00
 tags:
 excerpt: >-
   Welcome home to 625 Olive Street in Leavenworth, the beloved
@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/Yyy4k_1QnN4'
 
 &nbsp;
 
-#### **See full details at: [625olive](__notset__)[.SDGandAssociates.com](http://singletree.ihousenet.com/){: target="_blank"}**
+#### **See full details at: [625olive](__notset__)[.SDGandAssociates.com](http://625olive.ihousenet.com/){: target="_blank"}**
 
 {% include youtube.html %}
 
