@@ -3,7 +3,9 @@ layout: post
 title: JUST LISTED ~ Your Chance to Own the Historic Circa 1902 Sybil Harvey House!
 date: 2020-05-15 20:42:00
 tags:
-excerpt: 'Take a video tour of 625 Olive Street, Leavenworth, KS!'
+excerpt: >-
+  Take a video tour of this historic home located at 625 Olive Street,
+  Leavenworth, KS!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
