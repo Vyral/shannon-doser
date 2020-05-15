@@ -24,11 +24,11 @@ youtube_code: 'https://youtu.be/Yyy4k_1QnN4'
 
 #### **See full details at: [625olive](__notset__)[.SDGandAssociates.com](http://singletree.ihousenet.com/){: target="_blank"}**
 
-{% include pullquote.html %}
+&nbsp;
 
 Welcome home to 625 Olive Street in Leavenworth, the beloved turn-of-the-century historic circa 1902 Sybil Harvey House. This is a historic home registered with the Union Park Historic District and is part of the Christmas Parade of Homes. Full of history, this two-story home is constructed of smooth brick, combines Queen Anne, Romanesque, and Classical Revival stylistic attributes, and was designed by famed Leavenworth architect William P. Feth for the Harvey family.
 
-This home has retained many of the original features, giving you a feeling of nostalgia from a bye-gone era -- original woodwork, hardwood floors, stained glass, lighting fixtures, vanity, and clawfoot tub to name just a few. You will also appreciate the many updates in the past couple of years, including kitchen appliances, water heater, new 200 amp electric, two unit HVAC, new carpet in the sun room, updated hall bath, and a new roof in 2018 with architectural grade asphalt shingles and 7" gutters with gutter guards.
+This home has retained many of the original features, giving you a feeling of nostalgia from a bye-gone era – original woodwork, hardwood floors, stained glass, lighting fixtures, vanity, and clawfoot tub to name just a few. You will also appreciate the many updates in the past couple of years, including kitchen appliances, water heater, new 200 amp electric, two unit HVAC, new carpet in the sun room, updated hall bath, and a new roof in 2018 with architectural grade asphalt shingles and 7" gutters with gutter guards.
 
 As you approach, be greeted by lovely landscaping and brick walkway inviting you to the screened front porch spanning the length of the home with refreshing lighted ceiling fan. What a wonderful spot to enjoy your morning coffee or an afternoon iced tea.
 
@@ -43,3 +43,5 @@ Ascend the staircase to the bedroom level and notice the delightful original sta
 Downstairs is a family room, the third full bath, and the laundry room with utility sink. This home also features a deck, garage, plenty of additional off-street parking, and a beautiful landscaped yard.
 
 To come see this wonderful home for yourself, call us directly at (913) 906-5489 OR to receive info and pictures to your mobile phone, text "SDG26" to 79564.
+
+{% include pullquote.html %}
