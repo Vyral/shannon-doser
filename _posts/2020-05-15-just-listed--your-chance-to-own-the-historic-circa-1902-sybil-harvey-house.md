@@ -3,7 +3,7 @@ layout: post
 title: JUST LISTED ~ Your Chance to Own the Historic Circa 1902 Sybil Harvey House!
 date: 2020-05-15 20:42:00
 tags:
-excerpt: Take a Walk-Through Video tour of this Historic home!
+excerpt: 'Take a video tour of 625 Olive Street, Leavenworth, KS!'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
