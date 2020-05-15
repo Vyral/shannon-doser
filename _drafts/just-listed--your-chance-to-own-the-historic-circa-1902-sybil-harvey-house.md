@@ -20,11 +20,11 @@ youtube_alternate_image:
 youtube_code: 'https://youtu.be/Yyy4k_1QnN4'
 ---
 
-{% include youtube.html %}
+&nbsp;
 
 #### **See full details at: [625olive](__notset__)[.SDGandAssociates.com](http://singletree.ihousenet.com/){: target="_blank"}**
 
-&nbsp;
+{% include youtube.html %}
 
 Welcome home to 625 Olive Street in Leavenworth, the beloved turn-of-the-century historic circa 1902 Sybil Harvey House. This is a historic home registered with the Union Park Historic District and is part of the Christmas Parade of Homes. Full of history, this two-story home is constructed of smooth brick, combines Queen Anne, Romanesque, and Classical Revival stylistic attributes, and was designed by famed Leavenworth architect William P. Feth for the Harvey family.
 
