@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NEW ON THE MARKET ~ Beautiful Brittany Heights 4 Bedroom Updated Home!
-date: 2020-05-29 20:16:40
+date: 2020-05-29 20:16:00
 tags:
 excerpt:
 enclosure:
@@ -13,11 +13,11 @@ youtube_alternate_image:
 youtube_code: WOxMUmn_2aE
 ---
 
-#### See full details at: 21714w51.SDGandAssociates.com
+#### See full details at: [21714w51.SDGandAssociates.com](http://21714w51.ihousenet.com/){: target="_blank"}
 
 {% include youtube.html %}
 
-Welcome home to 21714 W. 51st Terrace in the Brittany Heights community of Shawnee, a beautiful four bedroom, three full bath home offering 2,000 square feet of finished living space, situated on a lovely quarter acre cul-de-sac lot in the award winning DeSoto school district. Don't miss out on making this charming home yours\! You will love the open California Split floorplan that boasts many updates, including fresh interior paint, updated baths, 3-year new roof, 3-year new furnace and A/C, and 4-year new water heater.
+Welcome home to [21714 W. 51st Terrace](http://21714w51.ihousenet.com/){: target="_blank"} in the Brittany Heights community of Shawnee, a beautiful four bedroom, three full bath home offering 2,000 square feet of finished living space, situated on a lovely quarter acre cul-de-sac lot in the award winning DeSoto school district. Don't miss out on making this charming home yours\! You will love the open California Split floorplan that boasts many updates, including fresh interior paint, updated baths, 3-year new roof, 3-year new furnace and A/C, and 4-year new water heater.
 
 Be greeted by a grassy front yard with mature shade trees leading to the covered front porch with a quaint space for a bistro table and chairs. Enter into the great room and notice the soaring cathedral ceiling with refreshing lighted ceiling fan, cozy corner stone fireplace, and a series of windows topped with a palladium accent window allowing natural light to fill the space.
 
