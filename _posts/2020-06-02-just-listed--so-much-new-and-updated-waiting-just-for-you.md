@@ -1,7 +1,7 @@
 ---
 layout: post
-title: So Much NEW and Updated! Waiting Just for You!
-date: 2020-06-02 20:47:17
+title: JUST LISTED ~ So Much NEW and Updated! Waiting Just for You!
+date: 2020-06-02 20:47:00
 tags:
 excerpt:
 enclosure:
