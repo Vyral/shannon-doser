@@ -29,7 +29,7 @@ We can control the number of people who come in and out of your home. From the l
 
 The one visitor we know you’ll want in your home is our professional photographer, and you’re not even required to be there while the high-quality pictures are being taken.&nbsp;
 
-Truthfully, the time is coming when buyers will make an offer on your house without ever physically stepping through the doors, and when that time comes, do you want your home represented through shaking, sloppy video and grainy photos? Or would you want your home marketed with our state-of-the-art equipment? **Photo, video, drone footage, and even 3D virtual tours—we offer all of this because it's the level of quality you deserve.&nbsp;**
+Truthfully, the time is coming when buyers will make an offer on your house without ever physically stepping through the doors, and when that time comes, do you want your home represented through shaking, sloppy video and grainy photos? Or would you want your home marketed with our state-of-the-art equipment? **Photo, video, drone footage, and even 3D virtual tours—we offer all of this because it's the level of quality you deserve.**
 
 At SDG & Associates, the experience we create is unparalleled. So whenever you’re ready to move forward, we’ll be there.&nbsp;
 
