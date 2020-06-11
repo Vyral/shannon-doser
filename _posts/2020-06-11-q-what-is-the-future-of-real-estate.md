@@ -17,7 +17,7 @@ youtube_code: XVD7rOOzFRY
 
 {% include youtube.html %}
 
-<p style="text-align:center">Positive change is coming, and we’re leading the way.</p>
+<p style="text-align:center"><em>Positive change is coming, and we’re leading the way.</em></p>
 
 Which each passing day, the world is changing. That statement couldn’t be more relevant than it is today, especially if you’re buying or selling a house.&nbsp;
 
