@@ -21,7 +21,7 @@ youtube_code: XVD7rOOzFRY
 
 Which each passing day, the world is changing. That statement couldn’t be more relevant than it is today, especially if you’re buying or selling a house.&nbsp;
 
-We continuously strive for innovation, seeking new methods for how we can better the entire industry and improve your personal real estate experience. We’ve shifted our model to become virtually enhanced while still being physically available for our clients. <strong>So, from ‘just listed,’ to ‘just sold,’ we can work how <em>you</em> like to work.</strong>
+We continuously strive for innovation, seeking new methods for how we can better the entire industry and improve your personal real estate experience. We’ve shifted our model to become virtually enhanced while still being physically available for our clients. <strong>So, from ‘just listed,’ to ‘just sold,’ we can work how you like to work.</strong>
 
 We can control the number of people who come in and out of your home. From the listing consultation, to the showing, to the signing of the contract, we can do it all from the comfort of your home, or in person—it’s up to you.&nbsp;
 
