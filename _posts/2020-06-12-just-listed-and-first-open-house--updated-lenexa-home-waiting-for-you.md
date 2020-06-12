@@ -17,7 +17,7 @@ youtube_code: gLUBcGgiVMk
 
 {% include youtube.html %}
 
-This beautiful home was JUST LISTED and we will be hosting the first OPEN HOUSE this weekend\! Join us on Saturday, June 13th from 12-2pm…we look forward to seeing you\!
+This beautiful home was **JUST LISTED** and we will be hosting the first **OPEN HOUSE** this weekend\! Join us on Saturday, June 13th from 12-2pm…we look forward to seeing you\!
 
 Welcome home to 14425 W. 93rd Street in the Brentwood Park community of Lenexa. This three bedroom and two full bath home offers 1,130 square feet of living space with many updates, fresh interior and exterior paint, soaring ceilings, impressive floor-to-ceiling stone fireplace, patio, fenced backyard, and desirable location in the award winning Shawnee Mission School District. As an added bonus, the sellers will install new carpet prior to possession with acceptable offer\!
 
