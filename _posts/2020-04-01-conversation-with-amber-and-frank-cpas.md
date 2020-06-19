@@ -12,6 +12,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/sdg-cafe.jpg
 youtube_code: 7PKsVxhdShc
+hidden: false
 ---
 
 {% include youtube.html %}

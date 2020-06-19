@@ -13,6 +13,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/future-yt-shannon-doser.jpg
 youtube_code: XVD7rOOzFRY
+hidden: false
 ---
 
 {% include youtube.html %}

@@ -17,6 +17,8 @@ custom_links:
     url: /join-our-team
   - title: Download Our App
     url: 'https://app.kw.com/KW2D828W'
+  - title: New Construction
+    url: /new-construction/
 show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:

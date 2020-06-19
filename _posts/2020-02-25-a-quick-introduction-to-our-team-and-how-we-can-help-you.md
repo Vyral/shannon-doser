@@ -14,6 +14,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/doser-youtube-2.jpg
 youtube_code: Xy4QUtkST_8
+hidden: false
 ---
 
 {% include youtube.html %}
