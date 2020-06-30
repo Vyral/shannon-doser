@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Is the Future of Real Estate?'
-date: 2020-06-11 15:36:22
+date: 2020-06-11 15:36:00
 tags:
   - Real Estate
 excerpt: 'Positive change is coming, and we’re leading the way.'
@@ -18,11 +18,11 @@ hidden: false
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Positive change is coming, and we’re leading the way.</em></p>
+*Positive change is coming, and we’re leading the way.*
 
-Which each passing day, the world is changing. That statement couldn’t be more relevant than it is today, especially if you’re buying or selling a house.&nbsp;
+With each passing day, the world is changing. That statement couldn’t be more relevant than it is today, especially if you’re buying or selling a house.&nbsp;
 
-We continuously strive for innovation, seeking new methods for how we can better the entire industry and improve your personal real estate experience. We’ve shifted our model to become virtually enhanced while still being physically available for our clients. <strong>So, from ‘just listed,’ to ‘just sold,’ we can work how you like to work.</strong>
+We continuously strive for innovation, seeking new methods for how we can better the entire industry and improve your personal real estate experience. We’ve shifted our model to become virtually enhanced while still being physically available for our clients. **So, from ‘just listed,’ to ‘just sold,’ we can work how you like to work.**
 
 We can control the number of people who come in and out of your home. From the listing consultation, to the showing, to the signing of the contract, we can do it all from the comfort of your home, or in person—it’s up to you.&nbsp;
 
