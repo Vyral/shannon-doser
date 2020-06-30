@@ -8,7 +8,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/1-5342nolandrd-35-of-35.jpg
 youtube_code: KIEtCgIVeRY
 hidden: false
