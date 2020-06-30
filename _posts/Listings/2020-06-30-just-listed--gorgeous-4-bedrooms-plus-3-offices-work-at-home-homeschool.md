@@ -9,12 +9,14 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/1-5342nolandrd-35-of-35.jpg
+youtube_alternate_image:
 youtube_code: KIEtCgIVeRY
 hidden: false
 ---
 
 #### See full details at: [N](http://93rd.SDGandAssociates.com){: target="_blank"}[oland.SDGandAssociates.com](Noland.SDGandAssociates.com){: target="_blank"}
+
+&nbsp;
 
 {% include youtube.html %}
 
