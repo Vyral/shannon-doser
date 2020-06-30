@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUST LISTED ~ Gorgeous 4 Bedrooms PLUS 3 Offices! Work at Home? Homeschool?
-date: 2020-06-30 19:29:47
+date: 2020-06-30 19:29:00
 tags:
 excerpt:
 enclosure:
@@ -18,7 +18,7 @@ hidden: false
 
 {% include youtube.html %}
 
-The house you've been waiting for and perfectly suited for today's living\!\! Impeccably maintained with exceptional layout and space for entertaining, daily living, remote work, and at-home schooling -- two home offices on the main level PLUS a 3rd office or 5th non-conforming bedroom, cheery daylight rec room, and full bath in the lower level\! All four bedrooms feature en-suite baths, and with almost 4,000 square feet of gorgeous, well-designed living space, there's plenty of room for every need.
+The house you've been waiting for and perfectly suited for today's living\!\! Impeccably maintained with exceptional layout and space for entertaining, daily living, remote work, and at-home schooling – two home offices on the main level PLUS a 3rd office or 5th non-conforming bedroom, cheery daylight rec room, and full bath in the lower level\! All four bedrooms feature en-suite baths, and with almost 4,000 square feet of gorgeous, well-designed living space, there's plenty of room for every need.
 
 You will easily be able to move in and enjoy the neutral palette of the home, freshly painted exterior, gorgeous hardwood floors, 2" blinds on all windows, spacious eat-in kitchen with newer stainless steel appliances, large granite eating island, butler's pantry, and breakfast room. The backyard is serene, shaded and partially fenced. All this AND location in a highly desirable neighborhood within the award winning Shawnee Mission School District.
 
@@ -28,7 +28,7 @@ This gorgeous kitchen showcases an expansive island with granite eating bar, a p
 
 The kitchen and breakfast area are open to the great room highlighting a beautiful fireplace with decorative mantel, a wall of windows overlooking the park-like backyard, and a refreshing ceiling fan.
 
-There are two separate offices on main level, as well as the powder room and mudroom with built-in hall tree.
+There are two separate offices on the main level, as well as the powder room and mudroom with built-in hall tree.
 
 Ascend to the bedroom level where you will find the spacious master suite with tray ceiling with lighted fan, and a spa-like bath with two vanities, whirlpool tub, large walk-in tile shower room, and tile flooring. The second bedroom features a vaulted ceiling, walk-in closet and private bath with glass and tile shower. The third and fourth bedrooms share a Jack-and-Jill bath with double vanity and shower over tub.
 
