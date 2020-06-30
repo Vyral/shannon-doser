@@ -14,7 +14,7 @@ youtube_code: KIEtCgIVeRY
 hidden: false
 ---
 
-#### See full details at: [N](http://93rd.SDGandAssociates.com){: target="_blank"}[oland.SDGandAssociates.com](Noland.SDGandAssociates.com){: target="_blank"}
+#### See full details at: [Noland.SDGandAssociates.com](http://Noland.SDGandAssociates.com){: target="_blank"}&nbsp;
 
 &nbsp;
 
