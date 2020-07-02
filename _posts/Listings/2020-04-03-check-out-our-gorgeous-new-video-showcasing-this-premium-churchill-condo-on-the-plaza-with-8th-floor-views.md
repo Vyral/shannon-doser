@@ -17,7 +17,7 @@ youtube_alternate_image:
 youtube_code: 'https://youtu.be/tOO3hwhU9sQ'
 ---
 
-### **For full details, see:&nbsp;[48th.sdgandassociates.com](http://48th.sdgandassociates.com/){: target="_blank"}**
+**For full details, see:&nbsp;[48th.sdgandassociates.com](http://48th.sdgandassociates.com/){: target="_blank"}**
 
 {% include youtube.html %}
 
@@ -29,4 +29,3 @@ There is tons of storage both in the unit and additional storage within the buil
 
 To come see this wonderful home for yourself, call us directly at (913) 906-5489 OR to receive info and pictures to your mobile phone, text "SDG3" to 79564.
 
-{% include pullquote.html %}
