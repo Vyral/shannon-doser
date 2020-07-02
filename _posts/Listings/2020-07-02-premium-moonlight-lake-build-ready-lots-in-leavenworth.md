@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Premium Moonlight Lake Build-Ready Lots in Leavenworth! Most are Lake Front!
+title: Premium Moonlight Lake Build-Ready Lots in Leavenworth!
 date: 2020-07-02 23:26:00
 tags:
   - New Construction
@@ -10,7 +10,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/1-aerials4500newlawrencerd-6-of-38.jpg
 youtube_code: z2IkkIsR1kw
 hidden: false
