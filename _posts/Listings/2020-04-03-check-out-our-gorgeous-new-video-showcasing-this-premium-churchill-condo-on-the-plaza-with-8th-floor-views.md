@@ -1,13 +1,11 @@
 ---
 layout: post
-title: >-
-  Check out our GORGEOUS new Video showcasing this Premium Churchill Condo on
+title: Check out our GORGEOUS new Video showcasing this Premium Churchill Condo on
   the Plaza with 8th floor views!
 date: 2020-04-03 14:00:00
 tags:
   - New Construction
-excerpt: >-
-  Check out our GORGEOUS new Video showcasing this Premium Churchill Condo on
+excerpt: Check out our GORGEOUS new Video showcasing this Premium Churchill Condo on
   the Plaza with 8th floor views. See full details and new price at:
   http://48th.SDGandAssociates.com or Text "SDG3" to 79564.
 enclosure:
