@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUST LISTED ~ Impeccably Built Custom Gem is Today's DREAM HOME!
-date: 2020-07-02 16:31:07
+date: 2020-07-02 16:31:00
 tags:
 excerpt: >-
   This impeccably built one-owner custom gem is today's DREAM HOME! Showcasing a
@@ -13,8 +13,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/1-aerial18721w64thst-3-of-11.jpg
 youtube_code: 9Mp5qGTGKm4
 hidden: false
 ---
