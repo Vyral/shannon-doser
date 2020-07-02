@@ -5,7 +5,7 @@ title: >-
   the Plaza with 8th floor views!
 date: 2020-04-03 14:00:00
 tags:
-  - Real Estate
+  - New Construction
 excerpt: >-
   Check out our GORGEOUS new Video showcasing this Premium Churchill Condo on
   the Plaza with 8th floor views. See full details and new price at:
