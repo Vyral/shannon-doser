@@ -5,7 +5,9 @@ date: 2020-04-02 17:26:00
 tags:
   - New Construction
   - Real Estate
-excerpt: Premium build-ready lots with community lake in the Moonlight Lake Community.
+excerpt: >-
+  We have several buildable lots for sale in the Cedar Ridge community of Bonner
+  Springs. These lots are CLOSE TO EVERYTHING!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
