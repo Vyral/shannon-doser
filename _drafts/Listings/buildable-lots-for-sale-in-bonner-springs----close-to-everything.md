@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buildable Lots For Sale in Bonner Springs -- Close to EVERYTHING!
-date: 2020-07-02 23:26:00
+date: 2020-01-01 17:26:00
 tags:
   - New Construction
   - Real Estate
