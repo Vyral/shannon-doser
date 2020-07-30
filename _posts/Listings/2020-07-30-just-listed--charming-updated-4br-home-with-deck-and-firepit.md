@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUST LISTED ~ Charming Updated 4BR Home with Deck and Firepit!
-date: 2020-07-30 18:07:35
+date: 2020-07-30 18:07:00
 tags:
 excerpt:
 enclosure:
@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/25-22706w50thst-7-of-30.jpg
 youtube_code: 8cKKovm4lYo
 hidden: false
 ---
