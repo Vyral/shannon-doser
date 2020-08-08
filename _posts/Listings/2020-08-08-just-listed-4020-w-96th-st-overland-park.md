@@ -10,8 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/96th-just-listed.png
-youtube_code:
+youtube_code: 'https://www.zillow.com/view-3d-home/f8991567-9d44-4b84-a78e-fcbf42c59517'
 hidden: false
 ---
 
-&lt;iframe src="[https://www.zillow.com/view-3d-home/f8991567-9d44-4b84-a78e-fcbf42c59517](https://www.zillow.com/view-3d-home/f8991567-9d44-4b84-a78e-fcbf42c59517)" height="360" width="640" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
