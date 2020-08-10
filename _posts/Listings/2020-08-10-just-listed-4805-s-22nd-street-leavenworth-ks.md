@@ -18,7 +18,7 @@ hidden: false
 
 **Stand-Out Beautiful 4 Bedroom Leavenworth Home\!**
 
-* For current price, full details, photo gallery, list of upgrades & more, see: [4805w22.SDGandAssociates.com](http://4805w22.SDGandAssociates.com){: target="_blank" rel="noopener"}
+* For current price, full details, photo gallery, list of upgrades & more, see: [4805s22.SDGandAssociates.com](http://4805s22.SDGandAssociates.com){: target="_blank" rel="noopener"}
 * For more information or showing options, call us directly at (913) 906-5489 OR to receive info and pictures to your mobile phone, text "SDG26" to 79564.
 
 Welcome home to 4805 S. 22nd Street in the Branches community of Leavenworth. This beautiful home stands out in the neighborhood and offers four bedrooms, three full baths, and 2,003 square feet of updated living space. Some of the many features of this home include a new roof and gutters July 2020, fresh exterior paint April 2020, fresh interior paint 2020, Trex deck with new stringers and paint July 2020, and a new back door with integrated blinds.
