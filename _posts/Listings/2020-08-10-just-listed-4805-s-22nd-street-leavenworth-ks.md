@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JUST LISTED! 4805 S 22nd Street, Leavenworth, KS'
-date: 2020-08-10 19:42:18
+date: 2020-08-10 19:42:00
 tags:
 excerpt:
 enclosure:
@@ -16,7 +16,7 @@ hidden: false
 
 {% include youtube.html %}
 
-**Stand-Out and Beautiful 4 Bedroom Leavenworth Home\!**
+**Stand-Out Beautiful 4 Bedroom Leavenworth Home\!**
 
 * For current price, full details, photo gallery, list of upgrades & more, see: [4805w22.SDGandAssociates.com](http://4805w22.SDGandAssociates.com){: target="_blank" rel="noopener"}
 * For more information or showing options, call us directly at (913) 906-5489 OR to receive info and pictures to your mobile phone, text "SDG26" to 79564.
