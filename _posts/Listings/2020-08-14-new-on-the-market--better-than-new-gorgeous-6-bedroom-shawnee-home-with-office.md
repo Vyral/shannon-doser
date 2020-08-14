@@ -41,7 +41,7 @@ The fifth bedroom with recessed tray ceiling and fourth full bath with shower ov
 
 Ascend the curved staircase with stunning iron spindles to the primary bedroom level where all four large bedrooms feature en-suite baths, walk-in closets and vaulted ceilings. All secondary bedrooms are also pre-wired for ceiling fans. Through double doors is the impressive master suite showcasing a geometric recessed tray ceiling with accent lighting and refreshing lighted ceiling fan. Another set of double doors opens to the magnificent en-suite master bath highlighting a luxe tiled shower room with three shower heads, relaxing whirlpool tub, huge walk-in closet, a double granite vanity, and large tile flooring.&nbsp;
 
-The second and third bedrooms feature private vanity areas and a shared Jack-and-Jill bath with a shower over tub. The fourth bedroom includes an attached private bath with a shower over tub. &nbsp;You will also appreciate the convenient bedroom level laundry room with plumbing ready to go for a second sink.
+The second and third bedrooms feature private vanity areas and a shared Jack-and-Jill bath with a shower over tub. The fourth bedroom includes an attached private bath with a shower over tub. You will also appreciate the convenient bedroom level laundry room with plumbing ready to go for a second sink.
 
 Take the curved staircase downstairs to the newly finished lower level. The rec room highlights contemporary flooring, a full wet bar featuring gray cabinetry, granite counters with undermount sink, full tile backsplash, and dishwasher. There are built-in ceiling speakers (7 total) for a home theater/audio in the media room with built-ins. The 6th bedroom and the 5th full bath with a tiled walk-in shower are also on this lower level.
 
