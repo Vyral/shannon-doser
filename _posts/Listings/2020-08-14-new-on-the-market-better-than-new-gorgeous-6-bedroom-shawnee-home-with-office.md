@@ -5,7 +5,7 @@ title: >-
   Office!
 date: 2020-08-14 19:00:00
 tags:
-excerpt:
+excerpt: 'See full details at http://6015Hilltop.SDGandAssociates.com'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
