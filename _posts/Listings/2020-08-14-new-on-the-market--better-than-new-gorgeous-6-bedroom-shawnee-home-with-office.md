@@ -1,16 +1,16 @@
 ---
 layout: post
 title: >-
-  NEW ON THE MARKET! BETTER THAN NEW! Gorgeous 6 Bedroom Shawnee Home with
+  NEW ON THE MARKET ~ BETTER THAN NEW! Gorgeous 6 Bedroom Shawnee Home with
   Office!
 date: 2020-08-14 19:00:00
 tags:
-excerpt: See full details at 6015Hilltop.SDGandAssociates.com
+excerpt: See the full details at 6015Hilltop.SDGandAssociates.com
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/1-6015-hilltop-dr-2-of-35.jpg
 youtube_code: 'https://youtu.be/XAyssN7TeNk'
 hidden: false
