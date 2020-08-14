@@ -5,7 +5,7 @@ title: >-
   Office!
 date: 2020-08-14 19:00:00
 tags:
-excerpt: See the full details at 6015Hilltop.SDGandAssociates.com
+excerpt: See the full details at Hilltop.SDGandAssociates.com
 enclosure:
 pullquote:
 enclosure_type: video/mp4
