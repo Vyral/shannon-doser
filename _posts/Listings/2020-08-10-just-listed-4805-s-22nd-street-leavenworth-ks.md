@@ -3,7 +3,7 @@ layout: post
 title: 'JUST LISTED! 4805 S 22nd Street, Leavenworth, KS'
 date: 2020-08-10 19:42:00
 tags:
-excerpt:
+excerpt: See all the details at 4805s22.SDGandAssociates.com
 enclosure:
 pullquote:
 enclosure_type: video/mp4
