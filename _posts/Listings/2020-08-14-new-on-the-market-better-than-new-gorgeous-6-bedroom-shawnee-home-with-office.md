@@ -3,7 +3,7 @@ layout: post
 title: >-
   NEW ON THE MARKET! BETTER THAN NEW! Gorgeous 6 Bedroom Shawnee Home with
   Office!
-date: 2020-08-14 19:00:14
+date: 2020-08-14 19:00:00
 tags:
 excerpt:
 enclosure:
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: XAyssN7TeNk
+youtube_code: 'https://youtu.be/XAyssN7TeNk'
 hidden: false
 ---
 
