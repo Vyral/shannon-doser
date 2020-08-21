@@ -3,9 +3,7 @@ layout: post
 title: JUST LISTED with First OPEN HOUSE!
 date: 2020-08-21 23:35:00
 tags:
-excerpt: >-
-  See all the details, images, virtual tour and current pricing here:
-  14404.SDGandAssociates.com
+excerpt: See the full details at 14404.SDGandAssociates.com
 enclosure:
 pullquote:
 enclosure_type: video/mp4
