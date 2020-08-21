@@ -18,9 +18,9 @@ hidden: false
 
 {% include youtube.html %}
 
-#### 14404 Grandview Street, Overland Park, KS&nbsp; 66213
+#### **14404 Grandview Street, Overland Park, KS&nbsp; 66213**
 
-##### Fabulous Custom Built, MOVE-IN Ready Overland Park Home\!<br>&nbsp;
+##### **Fabulous Custom Built, MOVE-IN Ready Overland Park Home\!**<br>&nbsp;
 
 This home was **JUST LISTED** and we will be hosting the **First OPEN HOUSE** this weekend. Join us on **Saturday, August 22nd from 12-2pm**. We look forward to seeing you and showing you this incredible home\!
 
