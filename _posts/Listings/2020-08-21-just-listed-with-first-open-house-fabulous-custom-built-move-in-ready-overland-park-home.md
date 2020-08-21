@@ -1,6 +1,8 @@
 ---
 layout: post
-title: JUST LISTED with First OPEN HOUSE!
+title: >-
+  JUST LISTED with First OPEN HOUSE! Fabulous Custom Built, MOVE-IN Ready
+  Overland Park Home!
 date: 2020-08-21 23:35:00
 tags:
 excerpt: See the full details at 14404.SDGandAssociates.com
