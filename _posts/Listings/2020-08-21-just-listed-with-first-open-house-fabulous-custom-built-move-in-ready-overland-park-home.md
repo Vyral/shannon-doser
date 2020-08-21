@@ -18,7 +18,7 @@ hidden: false
 
 {% include youtube.html %}
 
-#### [14404 Grandview Street, Overland Park, KS&nbsp; 66213](http://14404.ihousenet.com/){: target="_blank" rel="noopener"}<br>&nbsp;
+#### 14404 Grandview Street, Overland Park, KS&nbsp; 66213
 
 ##### Fabulous Custom Built, MOVE-IN Ready Overland Park Home\!<br>&nbsp;
 
@@ -27,7 +27,7 @@ This home was **JUST LISTED** and we will be hosting the **First OPEN HOUSE** th
 * Visit [14404\.SDGandAssociates.com](http://14404.ihousenet.com/){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * Get info and pictures to your mobile phone, text "SDG5" to 79564.
 
-Welcome home to 14404 Grandview Street in the Somerset Brooke community of Overland Park, a stunning MOVE-IN ready custom home offering 4 bedrooms, 5 full + 1 half baths, and 4,372 square feet of spectacular living space. If you're looking for a mother-in-laws quarters or your college graduate has moved home, the daylight basement offers a full kitchen, 3/4 bath and non-conforming bedroom with walk-in closet. You will also appreciate that this home has a newer roof and water heater, a main level office with built-ins, and each second floor bedroom has an attached full bath.
+Welcome home to [14404 Grandview Street](http://14404.ihousenet.com/){: target="_blank" rel="noopener"} in the Somerset Brooke community of Overland Park, a stunning MOVE-IN ready custom home offering 4 bedrooms, 5 full + 1 half baths, and 4,372 square feet of spectacular living space. If you're looking for a mother-in-laws quarters or your college graduate has moved home, the daylight basement offers a full kitchen, 3/4 bath and non-conforming bedroom with walk-in closet. You will also appreciate that this home has a newer roof and water heater, a main level office with built-ins, and each second floor bedroom has an attached full bath.
 
 Be welcomed home by a grassy front yard with mature shade tree inviting you to the covered front porch. Enter through the decorative inlaid glass front doors into the grand 2-story foyer with tile flooring and elegant chandelier lighting.
 
