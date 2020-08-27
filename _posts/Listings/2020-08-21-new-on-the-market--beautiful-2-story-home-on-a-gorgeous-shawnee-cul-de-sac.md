@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/1--twilight5725lakeridge-2-of-3.jpg
-youtube_code: 'https://youtu.be/_vQdJHIb05g'
+youtube_code: 'https://youtu.be/WLmGX3uLUpQ'
 hidden: false
 ---
 
