@@ -3,7 +3,7 @@ layout: post
 title: Gorgeous 5 Bedroom Home! Hurry Before It's GONE!
 date:
 tags:
-excerpt: 'See all the details at http://193.SDGandAssociates.com'
+excerpt: See all the details at 193.SDGandAssociates.com
 enclosure:
 pullquote:
 enclosure_type: video/mp4
