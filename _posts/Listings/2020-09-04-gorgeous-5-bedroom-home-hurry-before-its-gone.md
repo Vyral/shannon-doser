@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/1--18415-w-193rd-st-2-of-30.jpg
 youtube_code: 'https://youtu.be/oZwtCEq74_I'
 hidden: false
 ---
