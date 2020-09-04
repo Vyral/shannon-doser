@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gorgeous 5 Bedroom Home! Hurry Before It's GONE!
-date: 2020-09-04 18:51:04
+date: 2020-09-04 18:51:00
 tags:
 excerpt: See all the details at 193.SDGandAssociates.com
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image:
-youtube_code: oZwtCEq74_I
+youtube_code: 'https://youtu.be/oZwtCEq74_I'
 hidden: false
 ---
 
