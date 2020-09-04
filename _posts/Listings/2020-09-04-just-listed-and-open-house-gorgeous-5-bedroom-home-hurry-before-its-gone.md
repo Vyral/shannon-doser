@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gorgeous 5 Bedroom Home! Hurry Before It's GONE!
+title: JUST LISTED and OPEN HOUSE! Gorgeous 5 Bedroom Home! Hurry Before It's GONE!
 date: 2020-09-04 18:51:00
 tags:
 excerpt: See all the details at 193.SDGandAssociates.com
