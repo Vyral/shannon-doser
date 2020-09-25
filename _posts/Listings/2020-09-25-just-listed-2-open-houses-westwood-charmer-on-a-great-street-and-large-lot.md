@@ -3,7 +3,7 @@ layout: post
 title: JUST LISTED! 2 OPEN HOUSES! Westwood Charmer on a Great Street and Large Lot!
 date: 2020-09-25 22:08:00
 tags:
-excerpt: 'See all the details at http://49th.SDGandAssociates.com'
+excerpt: See all the details at 49th.SDGandAssociates.com
 enclosure:
 pullquote:
 enclosure_type: video/mp4
