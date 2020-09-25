@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUST LISTED! 2 OPEN HOUSES! Westwood Charmer on a Great Street and Large Lot!
-date: 2020-09-25 22:08:59
+date: 2020-09-25 22:08:00
 tags:
 excerpt: 'See all the details at http://49th.SDGandAssociates.com'
 enclosure:
@@ -17,6 +17,8 @@ hidden: false
 {% include youtube.html %}
 
 Westwood Charmer on a Great Street and Large Lot\!
+
+This home was **JUST LISTED** and we will be hosting **2 OPEN HOUSES** this weekend\! Join us on Saturday **AND**&nbsp;Sunday, September 26th **AND**&nbsp;27th from 2-4pm each day. We look forward to seeing you and showing you this wonderful home...
 
 * Visit [49th.SDGandAssociates.com](http://49th.ihousenet.com/){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing
 * To receive info and pictures to your mobile phone, text "SDG9" to 79564.
@@ -35,7 +37,7 @@ Ascend the stairs to the dedicated master suite level. Through French doors, you
 
 The laundry area with included washer, dryer, and utility sink are located in the full unfinished basement with a walk-up staircase providing easy access for storage.
 
-Outside, entertain family and friends on the covered patio overlooking the fenced backyard with additional shade tree. What a perfect spot to relax after a long day. Additional features include a 3-car garage, storm windows, central heating and air, and did we mention...located within the Shawnee Mission East School District.
+Outside, entertain family and friends on the covered patio overlooking the fenced backyard with additional shade tree. What a perfect spot to relax after a long day. Additional features include a 3-car garage, storm windows, central heating and air, and did we mention…located within the Shawnee Mission East School District.
 
 For more information or showing options, call us directly at (913) 906-5489.
 
