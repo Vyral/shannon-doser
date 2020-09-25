@@ -8,8 +8,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/0--2821w49thst-2-of-27.jpg
 youtube_code: 'https://youtu.be/mTe9uSmHFLU'
 hidden: false
 ---
@@ -18,7 +18,7 @@ hidden: false
 
 Westwood Charmer on a Great Street and Large Lot\!
 
-This home was **JUST LISTED** and we will be hosting **2 OPEN HOUSES** this weekend\! Join us on Saturday **AND**&nbsp;Sunday, September 26th **AND**&nbsp;27th from 2-4pm **each day.** We look forward to seeing you and showing you this wonderful home...
+This home was **JUST LISTED** and we will be hosting **2 OPEN HOUSES** this weekend\! Join us on Saturday **AND**&nbsp;Sunday, September 26th **AND**&nbsp;27th from 2-4pm **each day.** We look forward to seeing you and showing you this wonderful home…
 
 * Visit [49th.SDGandAssociates.com](http://49th.ihousenet.com/){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing
 * To receive info and pictures to your mobile phone, text "SDG9" to 79564.
