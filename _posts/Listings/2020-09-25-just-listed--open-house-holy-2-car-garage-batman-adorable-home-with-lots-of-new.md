@@ -3,7 +3,7 @@ layout: post
 title: >-
   JUST LISTED & OPEN HOUSE! Holy 2-Car Garage Batman! ADORABLE Home with Lots of
   NEW!
-date: 2020-09-25 22:22:55
+date: 2020-09-25 22:22:00
 tags:
 excerpt: See all the details at Nall.SDGandAssociates.com
 enclosure:
@@ -20,9 +20,9 @@ hidden: false
 
 Holy 2-Car Garage Batman\! ADORABLE Home with Lots of NEW\!
 
-**JUST LISTED** with **1st OPEN HOUSE** this weekend\! Join us on Saturday, September 26th from 12-2pm\! We look forward to showing you this adorable home...
+**JUST LISTED** with **1st OPEN HOUSE** this weekend\! Join us on Saturday, September 26th from 12-2pm\! We look forward to showing you this adorable home…
 
-* See all the details, images, virtual tour and current pricing here: Nall.SDGandAssocaites.com
+* See all the details, images, virtual tour and current pricing here: [Nall.SDGandAssocaites.com](http://nall.ihousenet.com/){: target="_blank" rel="noopener"}
 * To receive info and pictures to your mobile phone, text "SDG22" to 79564.
 
 Welcome home to [5147 Nall Avenue](http://nall.ihousenet.com/){: target="_blank" rel="noopener"} in Roeland Park. This is an ADORABLE two bedroom, two full bath home offering 1,082 square feet and boasting a BRAND NEW roof and gutters, HVAC, NEWER windows (6) and doors (2), fresh interior paint, fenced yard, covered side porch, and with an acceptable offer, all the hardwood floors will be refinished prior to closing\! You will appreciate easy access to I-35 and Johnson Drive allowing you to be in downtown, the Plaza, or in Mission in no time, and it is located in the Award Winning Shawnee Mission School District\!
