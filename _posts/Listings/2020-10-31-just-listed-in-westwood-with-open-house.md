@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multiple Living Spaces! 3377 Square Feet Above Grade!!
+title: JUST LISTED in Westwood with Open House!
 date: 2020-10-31 00:21:00
 tags:
   - Real Estate
