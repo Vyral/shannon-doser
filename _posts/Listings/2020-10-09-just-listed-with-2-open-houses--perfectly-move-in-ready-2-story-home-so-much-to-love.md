@@ -1,9 +1,9 @@
 ---
 layout: post
 title: >-
-  JUST LSITED with 2 OPEN HOUSES ~ Perfectly Move-in Ready 2-Story Home! So Much
+  JUST LISTED with 2 OPEN HOUSES ~ Perfectly Move-in Ready 2-Story Home! So Much
   to Love!
-date: 2020-10-09 21:02:52
+date: 2020-10-09 21:02:00
 tags:
 excerpt: See all the details at 64th.SDGandAssociates.com
 enclosure:
@@ -22,7 +22,7 @@ hidden: false
 
 ##### Perfectly Move-in Ready 2-Story Home\! So Much to Love\!
 
-This gorgeous home was **JUST LISTED** and we will be hosting not one, but **TWO OPEN HOUSES** this weekend\! Join us on either **Saturday, October 10th** or **Sunday, October 11th**, or both days from **12-2pm each day**. We look forward to seeing you and showing you this beautiful home...
+This gorgeous home was **JUST LISTED** and we will be hosting not one, but **TWO OPEN HOUSES** this weekend\! Join us on either **Saturday, October 10th** or **Sunday, October 11th**, or both days from **12-2pm each day**. We look forward to seeing you and showing you this beautiful home…
 
 * Visit [64th.SDGandAssociates.com](http://64th.ihousenet.com/){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.&nbsp;
 * To receive info and pictures to your mobile phone, text "SDG24" to 79564.
