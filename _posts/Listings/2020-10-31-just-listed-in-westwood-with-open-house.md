@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/0-2919w50thst-29-of-30.jpg
-youtube_code: 'https://youtu.be/e9W4UuO50Oo'
+youtube_code: 'https://youtu.be/Vmk6UJ1C2Ik'
 hidden: false
 ---
 
