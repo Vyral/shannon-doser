@@ -17,7 +17,7 @@ hidden: false
 
 {% include youtube.html %}
 
-### 19508 W. 64th Terrace, Shawnee, KS&nbsp; 66218
+### 2919 W 50th Street, Westwood, KS 66205
 
 #### Multiple Living Spaces\! 3377 Square Feet Above Grade\!\!
 
