@@ -21,7 +21,7 @@ hidden: false
 
 #### This BEAUTIFUL Empire Estates Home Has Everything\!
 
-* Visit [96th.SDGandAssociates.com](http://96th.ihousenet.com/){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
+* Visit [96th.SDGandAssociates.com](http://96th.sdgandassociates.com/){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * Get info and pictures sent INSTANTLY to your mobile phone by texting "SDG2" to 79564.
 
 Welcome home to [4020 W. 96th Street](http://96th.ihousenet.com/){: target="_blank" rel="noopener"} in the Empire Estates community of Overland Park. &nbsp;With 3 bedrooms on the main level, 1 non-conforming bedroom on lower level, and 3 full plus 1 half baths, this gorgeous home offers 3,444 square feet of BEAUTIFUL living space. There is so much to love about this home, including gorgeous hardwood floors, a main level master, main level laundry, office, bonus room, plantation shutters, composite deck, paver patio with fire pit, brand NEW HVAC, 6 year young roof, location within the Award Winning Shawnee Mission School District, and MORE\!
