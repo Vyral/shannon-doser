@@ -7,11 +7,11 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code:
 ---
 
 {% include youtube.html %}
 
-![](/uploads/img-1442.mov){% include pullquote.html %}
+{% include pullquote.html %}
