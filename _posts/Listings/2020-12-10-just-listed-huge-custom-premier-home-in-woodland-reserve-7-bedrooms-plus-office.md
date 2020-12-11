@@ -3,7 +3,7 @@ layout: post
 title: >-
   JUST LISTED! Huge Custom Premier Home in Woodland Reserve! 7 Bedrooms PLUS
   Office!
-date: 2020-12-10 23:02:41
+date: 2020-12-10 23:02:00
 tags:
 excerpt: See all details at 9018Pine.SDGandAssociates.com
 enclosure:
@@ -22,10 +22,10 @@ hidden: false
 
 ##### Huge Custom Premier Home in Woodland Reserve\! 7 Bedrooms PLUS Office\!<br>&nbsp;
 
-* Visit [9018Pine.SDGandAssociates.com](http://9018pine.ihousenet.com/){: target="_blank" rel="noopener"} to see all the details, video tour, extensive photo gallery, and current price.
+* Visit [9018Pine.SDGandAssociates.com](http://9018Pine.SDGandAssociates.com){: target="_blank" rel="noopener"} to see all the details, video tour, extensive photo gallery, and current price.
 * To receive info and pictures to your mobile phone, text "SDG26" to 79564.
 
-Welcome home to 9018 Pine Street in the premier Woodland Reserve community of Lenexa. This custom built 1.5 story Don Julian home is today’s DREAM HOME showcasing a flexible, spacious layout with 7 bedrooms, 5.1 baths and 5,100+ s/f on a large .40 acre cul-de-sac lot. This home is so well suited to work from home, virtual learning, entertaining & everyday living\!
+Welcome home to&nbsp;[9018 Pine Street](http://9018Pine.SDGandAssociates.com){: target="_blank" rel="noopener"} in the premier Woodland Reserve community of Lenexa. This custom built 1.5 story Don Julian home is today’s DREAM HOME showcasing a flexible, spacious layout with 7 bedrooms, 5.1 baths and 5,100+ s/f on a large .40 acre cul-de-sac lot. This home is so well suited to work from home, virtual learning, entertaining & everyday living\!
 
 Some of the many features of this executive home include all bedrooms with en-suite baths, large private office with three workstations, perfect to work from home, great room with high ceiling, gorgeous kitchen with hearth room, multiple dining spaces, large upstairs loft, rec room with wet bar, storm shelter/safe room, large deck, patio and 3-car garage.
 
