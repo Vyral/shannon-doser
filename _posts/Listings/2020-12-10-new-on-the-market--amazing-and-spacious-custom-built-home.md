@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NEW ON THE MARKET ~ Amazing and Spacious Custom Built Home!
-date: 2020-12-10 23:09:26
+date: 2020-12-10 23:09:00
 tags:
 excerpt: See details at Main.SDGandAssociates.com
 enclosure:
@@ -20,10 +20,10 @@ hidden: false
 
 #### Amazing and Spacious Custom Built Home\!<br>&nbsp;
 
-* Visit [Main.SDGandAssociates.com](http://main.ihousenet.com/){: target="_blank" rel="noopener"} to see all the details, images, 3D walk-through tour, and current pricing.
+* Visit [Main.SDGandAssociates.com](http://Main.SDGandAssociates.com){: target="_blank" rel="noopener"} to see all the details, images, 3D walk-through tour, and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG5" to 79564.
 
-Welcome home to [5308 N. Main Street](http://main.ihousenet.com/){: target="_blank" rel="noopener"} in the Creekwood community of Kansas City. This custom built home offers four bedrooms, three full and one half baths, and 3,358 square feet of spacious living. Some of the many highlights of this home include a main level master suite, private second floor bedroom with sitting room and full bath, and finished walk-out lower level with second full kitchen, rec room, two bedrooms, and a large hobby/workshop. Plus, this home offers many updates, including all NEW paint and carpet in 2020, Pella windows, 200 & 100 AMP electrical, NEWER zoned heating and cooling, cedar siding stained in 2019, and newer water heaters.
+Welcome home to [5308 N. Main Street](http://Main.SDGandAssociates.com){: target="_blank" rel="noopener"} in the Creekwood community of Kansas City. This custom built home offers four bedrooms, three full and one half baths, and 3,358 square feet of spacious living. Some of the many highlights of this home include a main level master suite, private second floor bedroom with sitting room and full bath, and finished walk-out lower level with second full kitchen, rec room, two bedrooms, and a large hobby/workshop. Plus, this home offers many updates, including all NEW paint and carpet in 2020, Pella windows, 200 & 100 AMP electrical, NEWER zoned heating and cooling, cedar siding stained in 2019, and newer water heaters.
 
 A grassy front yard invites you to the delightful covered front porch. Step inside the tiled foyer and notice the gorgeous wood floors, fresh paint, vaulted ceilings, and the easy flow between the light and bright living spaces. The great room highlights a handsome natural stone fireplace with decorative wood mantel, double vaulted ceiling, a series of stacked windows, including an arched palladium window above, allowing natural light to fill the room, and a door opening to the rear deck.
 
