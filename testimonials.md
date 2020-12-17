@@ -8,7 +8,7 @@ permalink: /testimonials/
 
 &nbsp;
 
-*Michele unquestionably provides exceptional service and holds herself to the highest standards in the real estate industry. She was incredibly responsive and available at the drop of a hat in this fast paced market. I would recommend her to anyone looking to buy or sell their home and appreciate her candor and expertise.*
+Michele unquestionably provides exceptional service and holds herself to the highest standards in the real estate industry. She was incredibly responsive and available at the drop of a hat in this fast paced market. I would recommend her to anyone looking to buy or sell their home and appreciate her candor and expertise.
 
 \- Stephanie S
 
