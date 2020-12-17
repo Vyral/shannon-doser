@@ -8,10 +8,9 @@ permalink: /testimonials/
 
 &nbsp;
 
-> When recommending or referring someone to Cami I would say she was always readily available and prompt in responding to my questions. I have always trusted her knowledge and personal efforts and that certainly lowered my stress. It was I who tried to push the list price beyond her recommendation and of course she knew better. Her communication style is professional and personal. It was not easy getting the house ready to sell because of the number of years spent in our home and the process I was going through to finally move. Cami did ALL she could to help me\!
->
->
-> \- Noella M
+When recommending or referring someone to Cami I would say she was always readily available and prompt in responding to my questions. I have always trusted her knowledge and personal efforts and that certainly lowered my stress. It was I who tried to push the list price beyond her recommendation and of course she knew better. Her communication style is professional and personal. It was not easy getting the house ready to sell because of the number of years spent in our home and the process I was going through to finally move. Cami did ALL she could to help me\!
+
+\- Noella M
 
 &nbsp;
 
