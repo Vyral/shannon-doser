@@ -22,10 +22,10 @@ hidden: false
 
 #### UPGRADED & BEAUTIFUL 5 Bedroom Woodland Hills Home\!
 
-* Visit [Holiday.SDGandAssociates.com](http://holiday.ihousenet.com/){: target="_blank" rel="noopener"}&nbsp;to see all the details, images, virtual tour and current pricing.
+* Visit [Holiday.SDGandAssociates.com](http://Holiday.SDGandAssociates.com){: target="_blank" rel="noopener"}&nbsp;to see all the details, images, virtual tour and current pricing.
 * Get info and pictures to your mobile phone, text "SDG8" to 79564.
 
-Welcome home to [871 Holiday Drive](http://holiday.ihousenet.com/){: target="_blank" rel="noopener"} in the Maples of Woodland Hills community of Lansing. This 5 bedroom, 3 full plus 1 half bath home offers 3,265 square feet of wonderful living space, along with an easy commute to Post, Leavenworth, or the KCK/Village West shopping area.
+Welcome home to [871 Holiday Drive](http://Holiday.SDGandAssociates.com){: target="_blank" rel="noopener"} in the Maples of Woodland Hills community of Lansing. This 5 bedroom, 3 full plus 1 half bath home offers 3,265 square feet of wonderful living space, along with an easy commute to Post, Leavenworth, or the KCK/Village West shopping area.
 
 This 1.5 story home offers so much NEW and so many updates, including a NEW roof, new carpet on the second floor and both sets of stairs, fresh paint in the powder room, master suite, second floor, and kitchen cabinets, new tile in all bathrooms, and a new disposal – all in 2020\! Updates include replacement and expansion of the deck, addition of the screened porch under deck, including a dry ceiling system, and installation of the cement patio – all in 2019. Additional updates in 2016 include new bamboo flooring installed on the main floor, the second floor was remodeled to create the 5th bedroom, PLUS the HVAC was replaced.
 
