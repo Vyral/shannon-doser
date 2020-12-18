@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/1--871holidaydr-2-of-27.jpg
+youtube_alternate_image: /uploads/871-holiday-dr--open-house.png
 youtube_code: 'https://youtu.be/3-TFjfcH81Q'
 hidden: false
 ---
@@ -22,6 +22,7 @@ hidden: false
 
 #### UPGRADED & BEAUTIFUL 5 Bedroom Woodland Hills Home\!
 
+* **Join us for the 1st Open House\! Saturday, 12/19, 1-3pm.**
 * Visit [Holiday.SDGandAssociates.com](http://Holiday.SDGandAssociates.com){: target="_blank" rel="noopener"}&nbsp;to see all the details, images, virtual tour and current pricing.
 * Get info and pictures to your mobile phone, text "SDG8" to 79564.
 
