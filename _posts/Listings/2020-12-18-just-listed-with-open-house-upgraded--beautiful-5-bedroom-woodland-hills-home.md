@@ -1,6 +1,8 @@
 ---
 layout: post
-title: JUST LISTED & OPEN HOUSE! UPGRADED & BEAUTIFUL 5 Bedroom Woodland Hills Home!
+title: >-
+  JUST LISTED with OPEN HOUSE! UPGRADED & BEAUTIFUL 5 Bedroom Woodland Hills
+  Home!
 date: 2020-12-18 21:41:00
 tags:
 excerpt: See details at Holiday.SDGandAssociates.com
