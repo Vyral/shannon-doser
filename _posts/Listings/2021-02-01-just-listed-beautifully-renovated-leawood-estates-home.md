@@ -22,6 +22,7 @@ hidden: false
 
 Welcome home to [10515 Sagamore Road](http://10515sagamore.sdgandassociates.com){: target="_blank" rel="noopener"} in the Leawood Estates, a beautifully renovated three bedroom, three full bath Ranch home, featuring a non-conforming 4th bedroom, 2,418 square feet of gorgeous living space, and location on a .38 acre lot. You will fall in love with the new kitchen, hardwood floors, updated bathrooms, main level master, finished basement, and the outdoor living spaces. If that's not enough, this home is located in the Award Winning Shawnee Mission School District\!
 
+* **JOIN US FOR THE OPEN HOUSES\!**<br>**Monday, February 1st:**<br>11am-1pm with Michele AND again from 4-6pm with Court\!
 * Visit [**10515sagamore.SDGandAssociates.com**](http://10515sagamore.sdgandassociates.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * OR to receive info and pictures to your mobile phone, text "SDG25" to 79564.
 
