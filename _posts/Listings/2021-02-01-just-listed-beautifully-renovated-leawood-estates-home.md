@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUST LISTED!!! Beautifully Renovated Leawood Estates Home!
-date: 2021-02-01 21:49:16
+date: 2021-02-01 21:49:00
 tags:
 excerpt: 'See all the details here: 10515sagamore.SDGandAssociates.com'
 enclosure:
@@ -20,9 +20,9 @@ hidden: false
 
 ### Beautifully Renovated Leawood Estates Home\!
 
-Welcome home to 10515 Sagamore Road in the Leawood Estates, a beautifully renovated three bedroom, three full bath Ranch home, featuring a non-conforming 4th bedroom, 2,418 square feet of gorgeous living space, and location on a .38 acre lot. You will fall in love with the new kitchen, hardwood floors, updated bathrooms, main level master, finished basement, and the outdoor living spaces. If that's not enough, this home is located in the Award Winning Shawnee Mission School District\!
+Welcome home to [10515 Sagamore Road](http://10515sagamore.sdgandassociates.com){: target="_blank" rel="noopener"} in the Leawood Estates, a beautifully renovated three bedroom, three full bath Ranch home, featuring a non-conforming 4th bedroom, 2,418 square feet of gorgeous living space, and location on a .38 acre lot. You will fall in love with the new kitchen, hardwood floors, updated bathrooms, main level master, finished basement, and the outdoor living spaces. If that's not enough, this home is located in the Award Winning Shawnee Mission School District\!
 
-* Visit 10515sagamore.SDGandAssociates.com to see all the details, images, virtual tour and current pricing.
+* Visit [**10515sagamore.SDGandAssociates.com**](http://10515sagamore.sdgandassociates.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * OR to receive info and pictures to your mobile phone, text "SDG25" to 79564.
 
 Be welcomed home to this move-in ready gem with grassy front yard and mature shade trees inviting you to the front porch. Step through the double doors to the inviting foyer with geometric coffered ceiling, gorgeous hardwood floors and soothing colors found throughout the main level.
