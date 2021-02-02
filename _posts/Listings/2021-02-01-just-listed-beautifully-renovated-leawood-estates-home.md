@@ -33,7 +33,7 @@ Continue to the attractive great room highlighting an open beam vaulted ceiling,
 
 The main level master suite features a vaulted ceiling with lighted fan, bay window, and updated private bath showcasing an impressive double vanity, frameless walk-in glass and tile shower, and a walk-in closet. Also on the main level are the two secondary bedrooms with wood floors, and the the second updated full bath with a beautiful vanity, a shower over tub with tile surround, and a privacy glass block window.
 
-Descend the stairs to the spacious finished lower level highlighting a rec room complete with wet bar with bar seating and built-in shelving with wine rack. The 4th non-conforming bedroom features a walk-in closet and en-suite entrance to the third full bath, which also includes a hall entryway.
+Descend the stairs to the spacious finished lower level highlighting a rec room, complete with wet bar, bar seating and built-in shelving with wine rack, the 4th non-conforming bedroom with walk-in closet, and the 3rd full bath.
 
 Outside, spend time on the raised deck overlooking the large, fenced backyard, or relax on the patio below. What lovely spaces to enjoy the beauty that surrounds you. Additional features include an attached 2-car garage with openers and central heating and air. Plus, the washer and dryer stay with the home\! This gorgeous home is the perfect backdrop to create lasting memories with those you cherish. For more information, open house or showing options, call us directly at (913) 906-5489.
 
