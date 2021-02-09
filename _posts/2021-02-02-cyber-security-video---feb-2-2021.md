@@ -15,6 +15,8 @@ youtube_code: 'https://youtu.be/-ENARNEdz2s'
 hidden: false
 ---
 
-[Cyber Security Video - Feb 2, 2021...](https://youtu.be/-ENARNEdz2s)![](/uploads/10000000-457724435637991-4846882176588331308-n.mp4)
+[Cyber Security Video - Feb 2, 2021…](https://youtu.be/-ENARNEdz2s)![](/uploads/10000000-457724435637991-4846882176588331308-n.mp4)
 
-&nbsp;
+{% https://youtu.be/-ENARNEdz2s%}
+
+Check out tips to keep you CyberSafe by watching the recorded Zoom video above\!
