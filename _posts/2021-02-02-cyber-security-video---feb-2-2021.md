@@ -15,6 +15,8 @@ youtube_code: 'https://youtu.be/-ENARNEdz2s'
 hidden: false
 ---
 
-[Cyber Security Video - Feb 2, 2021…](https://youtu.be/-ENARNEdz2s)![](/uploads/10000000-457724435637991-4846882176588331308-n.mp4)
+[View Cyber Security Video - Feb 2, 2021…](https://youtu.be/-ENARNEdz2s)![](/uploads/10000000-457724435637991-4846882176588331308-n.mp4)
 
 Check out tips to keep you CyberSafe by watching the recorded Zoom video above\!
+
+We've also included some high-level notes if you don't have time to listen to the entire recording[.Click Here..](/uploads/Notes from Cyber Security Event - Google Docs.pdf)&nbsp;
