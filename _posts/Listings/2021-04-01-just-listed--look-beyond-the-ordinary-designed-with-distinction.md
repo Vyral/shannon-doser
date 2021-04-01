@@ -40,9 +40,9 @@ Downstairs is the finished lower level with spacious rec room, large wet bar, ho
 
 Enjoy fun in the sun\! Splash into your in-ground pool, relax on the lanai beneath the refreshing fan, barbecue on the open patio, roast s'mores at the gas firepit, play in the fenced yard, or have fun on the in-ground trampoline\! This amazing sports pool is heated/cooled and features holes for volleyball and basketball equipment, multi-colored lighting, and an automatic cover. Or, in the cooler evenings and seasons, gather around the cozy floor-to-ceiling stone fireplace on the covered patio.
 
-Additional features include the fully finished four-car garage with epoxy flooring and keyless entry, two super energy efficient HVAC systems, Ring security system, 9-zone in-ground sprinkler system with rain sensor, Ubiquiti WiFi extenders for wide coverage, cooling enclosed tower that houses the home technology, and remaining builder's warranty. You will also love the community lakes and walking trail, location within the Blue Valley School District, nearby BluHawk District, schools and hospitals, along with easy highway access.T
+Additional features include the fully finished four-car garage with epoxy flooring and keyless entry, two super energy efficient HVAC systems, Ring security system, 9-zone in-ground sprinkler system with rain sensor, Ubiquiti WiFi extenders for wide coverage, cooling enclosed tower that houses the home technology, and remaining builder's warranty. You will also love the community lakes and walking trail, location within the Blue Valley School District, nearby BluHawk District, schools and hospitals, along with easy highway access.
 
-his home was meant to be enjoyed and was designed for both entertaining and exceptional daily living.
+This home was meant to be enjoyed and was designed for both entertaining and exceptional daily living.
 
 For more information or showing options, call us directly at (913) 906-5489.
 
