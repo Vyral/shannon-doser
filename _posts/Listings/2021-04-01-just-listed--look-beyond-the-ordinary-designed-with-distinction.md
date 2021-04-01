@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUST LISTED ~ Look Beyond the Ordinary! Designed with Distinction!
-date: 2021-04-01 20:30:41
+date: 2021-04-01 20:30:00
 tags:
 excerpt: See Oakmont.SDGandAssociates.com to see all the details
 enclosure:
@@ -15,7 +15,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-15804 Oakmont Street, Overland Park, KS&nbsp; 66221
+[15804 Oakmont Street, Overland Park, KS&nbsp; 66221](Oakmont.SDGandAssociates.com){: target="_blank" rel="noopener"}
 
 Look Beyond the Ordinary\! Designed with Distinction\!
 
@@ -34,7 +34,7 @@ Your home chef will relish the opportunity to cook in this upgraded chef's kitch
 
 The main level master suite highlights a tray ceiling, luxurious bath with free-standing tub, frameless walk-in shower, expansive double vanity, walk-in closet with built-ins and walk-through to the first laundry room. Also on this level are the mudroom with built-in storage lockers and the second full bath with shower and exterior door providing convenient poolside access to rinse off after a refreshing swim.
 
-Ascend to the second level with a generous loft family room featuring lake views, second laundry room, and three secondary bedrooms, all with private baths and walk-in closets. Two of the bedrooms have an extra special feature -- built-in shelves swing open to reveal a hidden, delightful play room\!
+Ascend to the second level with a generous loft family room featuring lake views, second laundry room, and three secondary bedrooms, all with private baths and walk-in closets. Two of the bedrooms have an extra special feature – built-in shelves swing open to reveal a hidden, delightful play room\!
 
 Downstairs is the finished lower level with spacious rec room, large wet bar, home theater with tiered flooring, luxury seating, and included movie screen and media equipment, two additional bedrooms and the sixth full bath.
 
