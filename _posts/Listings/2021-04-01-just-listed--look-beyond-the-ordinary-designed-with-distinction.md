@@ -15,7 +15,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-[15804 Oakmont Street, Overland Park, KS&nbsp; 66221](Oakmont.SDGandAssociates.com){: target="_blank" rel="noopener"}
+15804 Oakmont Street, Overland Park, KS&nbsp; 66221
 
 Look Beyond the Ordinary\! Designed with Distinction\!
 
