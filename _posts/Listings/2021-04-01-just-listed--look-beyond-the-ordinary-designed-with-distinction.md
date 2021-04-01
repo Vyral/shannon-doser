@@ -21,7 +21,7 @@ Look Beyond the Ordinary\! Designed with Distinction\!
 
 This location was too special to build the ordinary\! This beautiful 1.5 story executive home is like-new with a contemporary flair and custom design choices around every corner. From the chef's kitchen to the amazing outdoor living spaces, this home was designed for today, tomorrow and beyond.
 
-* Visit [http://Oakmont.SDGandAssociates.com](http://Oakmont.SDGandAssociates.com){: target="_blank" rel="noopener"} to see all the incredible details, extensive photo gallery, virtual tour and current pricing.
+* Visit [Oakmont.SDGandAssociates.com](http://Oakmont.SDGandAssociates.com){: target="_blank" rel="noopener"} to see all the incredible details, extensive photo gallery, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG6" to 79564.
 
 Upgrades and amenities abound, including an in-ground heated/cooled sports pool, covered lanai with fireplace, patio with gas fire pit, in-ground trampoline, home theater, chef's kitchen with all Thermador appliances, rec room with wet bar, soaring ceilings, whole-home audio system, automatic shades that work with Alexa, and extraordinary touches enhancing each of the living spaces, including cantilevered built-ins, statement light fixtures creating a touch of elegant drama, a modern staircase with geometric metal rail, captivating use of mirror accents in just the right places, brilliant geometric built-in shelving in the office, and a luxurious master bath with freestanding tub and spacious frameless shower.
