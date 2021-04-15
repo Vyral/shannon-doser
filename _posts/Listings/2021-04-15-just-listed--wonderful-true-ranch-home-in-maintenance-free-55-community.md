@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUST LISTED ~ Wonderful True Ranch Home in Maintenance Free 55+ Community!
-date: 2021-04-15 23:20:01
+date: 2021-04-15 23:20:00
 tags:
 excerpt: See 1121sw8.SDGandAssociates.com to see all the details
 enclosure:
@@ -24,7 +24,7 @@ hidden: false
 * Visit [1121sw8.SDGandAssociates.com](http://1121sw8.ihousenet.com/){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing\!
 * To receive info and pictures to your mobile phone, text "SDG8" to 79564.
 
-Be welcomed home by a beautiful grassy front yard leading to the wonderful rocking chair covered front porch, an ideal spot to enjoy a cool glass of lemonade and chat with a friend. Enter into the large tiled foyer and notice the beautiful flooring, wood trim elements, and inviting colors found throughout the home. Continue to the family room with beautiful wood flooring, coffered ceiling with refreshing fan, cozy masonry fireplace framed by built-ins with delightful stained glass windows above, and recessed lighting. Conveniently located off the living room is a wet bar with built-in wine rack, sink and mini fridge. A sliding door leads to the light filled sun room with walls of windows, crown moulding, lighted ceiling fan, and door leading to the backyard. Imagine relaxing in this year-round space or hosting friends.
+Be welcomed home by a beautiful grassy front yard leading to the wonderful rocking chair covered front porch, an ideal spot to enjoy a cool glass of lemonade and chat with a friend. Enter into the large tiled foyer and notice the beautiful flooring, wood trim elements, and inviting colors found throughout the home. Continue to the family room with beautiful wood flooring, coffered ceiling with refreshing fan, cozy masonry fireplace framed by built-ins with delightful stained glass windows above, and recessed lighting. Conveniently located off the family room is a wet bar with built-in wine rack, sink and mini fridge. A sliding door leads to the light filled sun room with walls of windows, crown moulding, lighted ceiling fan, and door leading to the backyard. Imagine relaxing in this year-round space or hosting friends.
 
 The splendid eat-in kitchen features gorgeous wood flooring, beautiful and abundant cabinetry, stunning granite counters with undermount sink, full subway tile backsplash with mosaic accents, and pantry. Appliances include the newer smooth surface range, newer built-in microwave, dishwasher, trash compactor, and disposal. The delightful eat-in area features chandelier lighting and an endearing bay window creating light and bright dining.
 
