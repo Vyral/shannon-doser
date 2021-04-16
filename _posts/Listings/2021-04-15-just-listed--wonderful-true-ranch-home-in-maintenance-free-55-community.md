@@ -15,11 +15,11 @@ hidden: false
 ---
 {% include youtube.html %}
 
-### 1121 SW 8th Street, Lee's Summit, MO&nbsp; 64081
+### 1121 SW 8th Terrace, Lee's Summit, MO&nbsp; 64081
 
 ##### Wonderful True Ranch Home in Maintenance Free 55+ Community\!
 
-<br>Welcome home to [1121 SW 8th Street](http://1121sw8.ihousenet.com/){: target="_blank" rel="noopener"}, MAINTENANCE FREE LIVING in the 55+ community of The Cottages at Cedar Creek in Lee's Summit. This beautiful cul-de-sac ranch home offers three bedrooms, two full and one half baths, and 1,757 square feet of wonderful living space. This home offers so many updates, including new windows in April 2021, new water heater in 2021, new garage door and opener in February 2021, five year young HVAC, painted exterior just two years ago, AND new flooring. Low monthly HOA fee with maintenance provided, including lawn care, snow removal, and garbage pick-up.
+<br>Welcome home to [1121 SW 8th Terrace](http://1121sw8.ihousenet.com/){: target="_blank" rel="noopener"}, MAINTENANCE FREE LIVING in the 55+ community of The Cottages at Cedar Creek in Lee's Summit. This beautiful cul-de-sac ranch home offers three bedrooms, two full and one half baths, and 1,757 square feet of wonderful living space. This home offers so many updates, including new windows in April 2021, new water heater in 2021, new garage door and opener in February 2021, five year young HVAC, painted exterior just two years ago, AND new flooring. Low monthly HOA fee with maintenance provided, including lawn care, snow removal, and garbage pick-up.
 
 * Visit [1121sw8.SDGandAssociates.com](http://1121sw8.ihousenet.com/){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing\!
 * To receive info and pictures to your mobile phone, text "SDG8" to 79564.
