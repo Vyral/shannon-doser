@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "13221 Custer Ave, Bonner Springs\_KS\_ 66012"
+title: 'JUST LISTED! Picture Perfect, Move-in Ready, Cul-de-Sac Home!'
 date: 2021-04-21 19:18:00
 tags:
 excerpt: See all the details at Custer.SDGandAssociates.com
