@@ -11,8 +11,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/1-13605w53rdterr-34-of-34.jpg
-youtube_code: 'https://youtu.be/PkcW3Z5ncPM'
+youtube_alternate_image: /uploads/1-13605w53rdterr-2-of-34.jpg
+youtube_code: 'https://youtu.be/W70T8cNdmeg'
 hidden: false
 ---
 {% include youtube.html %}
