@@ -5,7 +5,7 @@ title: >-
   Shopping!
 date: 2021-05-06 22:20:00
 tags:
-excerpt: See ironwood.SDGandAssociates.com for all the details!
+excerpt: See all the details at ironwood.SDGandAssociates.com
 enclosure:
 pullquote:
 enclosure_type: video/mp4
