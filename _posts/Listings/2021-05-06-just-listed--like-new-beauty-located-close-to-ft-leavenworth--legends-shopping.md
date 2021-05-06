@@ -3,7 +3,7 @@ layout: post
 title: >-
   JUST LISTED ~ LIKE NEW Beauty Located Close to Ft Leavenworth & Legends
   Shopping!
-date: 2021-05-06 22:20:46
+date: 2021-05-06 22:20:00
 tags:
 excerpt: See ironwood.SDGandAssociates.com for all the details!
 enclosure:
@@ -21,9 +21,9 @@ hidden: false
 
 LIKE NEW Beauty Located Close to Ft Leavenworth & Legends Shopping\!
 
-Welcome home to [4409 Ironwood Drive](ironwood.SDGandAssociates.com){: target="_blank" rel="noopener"}, a beautiful LIKE NEW home on a cul-de-sac, built in 2015 and conveniently located close to Ft. Leavenworth and Legends shopping. Nice open floorplan with 3 bedrooms, 3.5 baths, over 2,000 square feet of finished living space, stainless steel appliances, granite counters, hardwoods, finished basement with full bath, and fenced backyard.
+Welcome home to [4409 Ironwood Drive](http://ironwood.SDGandAssociates.com){: target="_blank" rel="noopener"}, a beautiful LIKE NEW home on a cul-de-sac, built in 2015 and conveniently located close to Ft. Leavenworth and Legends shopping. Nice open floorplan with 3 bedrooms, 3.5 baths, over 2,000 square feet of finished living space, stainless steel appliances, granite counters, hardwoods, finished basement with full bath, and fenced backyard.
 
-* Visit [ironwood.SDGandAssociates.com](ironwood.SDGandAssociates.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
+* Visit [ironwood.SDGandAssociates.com](http://ironwood.SDGandAssociates.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG25" to 79564.
 
 Be welcomed by a grassy front yard leading to the delightful covered front porch. Step inside and notice the beautiful hardwood flooring as well as the inviting colors that are found through out the home.
