@@ -17,7 +17,7 @@ hidden: false
 
 ## 3695 N. 153rd Street, Basehor, KS&nbsp; 66207
 
-### Beautiful 4 Bedroom Home with Room for Everyone\!
+## Beautiful 4 Bedroom Home with Room for Everyone\!
 
 This beautiful home was **JUST LISTED** and we will be hosting the first **OPEN HOUSE** on **Saturday, May 8th from 12 noon - 4pm\!** We look forward to seeing you and showing you your next home…
 
