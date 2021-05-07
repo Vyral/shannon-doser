@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUST LISTED and OPEN HOUSE! Beautiful 4 Bedroom Home with Room for Everyone!
-date: 2021-05-07 23:48:14
+date: 2021-05-07 23:48:00
 tags:
 excerpt: See all the details at 153rd.SDGandAssociates.com
 enclosure:
@@ -17,11 +17,9 @@ hidden: false
 
 ## 3695 N. 153rd Street, Basehor, KS&nbsp; 66207
 
-&nbsp;
-
 ### Beautiful 4 Bedroom Home with Room for Everyone\!
 
-This beautiful home was **JUST LISTED** and we will be hosting the first **OPEN HOUSE** on **Saturday, May 8th from 12 noon - 4pm\!** We look forward to seeing you and showing you your next home...
+This beautiful home was **JUST LISTED** and we will be hosting the first **OPEN HOUSE** on **Saturday, May 8th from 12 noon - 4pm\!** We look forward to seeing you and showing you your next home…
 
 Welcome home to [3695 N. 153rd Street](http://153rd.ihousenet.com/){: target="_blank" rel="noopener"} in the High Point Downs community of Basehor, a spacious four bedroom, three full bath home on a quarter acre lot offering 2,150 square feet of immaculate living space. Some of the many features of this home include a 3-car garage, wood floors, granite counters, stainless steel appliances, vaulted ceilings, master with jetted tub and walk-in closet, family and living rooms, raised deck, and a fenced yard with double gates.
 
