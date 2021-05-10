@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/1--3965n153rdst-28-of-29.jpg
-youtube_code: 'https://youtu.be/jF_Ua_x8YiI'
+youtube_code: 'https://youtu.be/xtfgaNUsmJk'
 hidden: false
 ---
 {% include youtube.html %}
