@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2--5249outlookdr-4-of-22.jpg
-youtube_code: 'https://youtu.be/9QR9M-d5LCw'
+youtube_code: 'https://youtu.be/OLvm23FEbsE'
 hidden: false
 ---
 {% include youtube.html %}
