@@ -34,7 +34,7 @@ Adjacent to the dining room is the endearing kitchen highlighting a darling wall
 
 Being a ranch home, both bedrooms are on the main level and feature hardwood floors, while one also offers a lighted ceiling fan and the second also highlights a door leading outside and a charming corner built-in hutch. The full bath offers tilework and a shower over tub.
 
-Downstairs, the full basement is where you will find the laundry area, utility sink, and space storage or to finish for extra living.
+Downstairs, the full basement is where you will find the laundry area, utility sink, and space for storage or to finish for extra living.
 
 Outside, spend time on the patio overlooking the grassy and fenced backyard. What a beautiful spot to enjoy an evening barbecue with family and friends. Additional features include an attached garage with opener and double driveway.
 
