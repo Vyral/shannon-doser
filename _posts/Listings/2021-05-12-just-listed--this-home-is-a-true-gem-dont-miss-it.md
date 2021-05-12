@@ -1,9 +1,9 @@
 ---
 layout: post
 title: JUST LISTED ~ This Home is a True Gem! Don't Miss It!
-date: 2021-05-12 23:01:53
+date: 2021-05-12 23:01:00
 tags:
-excerpt: See 76th.SDGandAssociates.com to see all the details!
+excerpt: See all the details at 76th.SDGandAssociates.com
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -30,13 +30,13 @@ Adjacent to the living room is the beautiful formal dining room showcasing a wal
 
 The dining room opens to the extremely functional and spacious eat-in kitchen highlighting abundant solid wood cabinetry, great counter space, tile backsplash, built-in desk, pantry and island with additional storage. Appliances include the refrigerator, range, dishwasher, microwave and disposal. The cheery breakfast area, currently being used as a sitting room, features large windows with views of the backyard and a door opening to the deck. The easy flow between these spaces makes entertaining a breeze.
 
-The main level master suite highlights wood floors, a refreshing lighted ceiling fan, and lock-off access to the en-suite full bath. There is also a connected half bath creating an efficient separate solution for the main level second and third bedrooms -- very creative\!
+The main level master suite highlights wood floors, a refreshing lighted ceiling fan, and lock-off access to the en-suite full bath. There is also a connected half bath creating an efficient separate solution for the main level second and third bedrooms – very creative\!
 
 Downstairs, the finished basement offers a family room, bonus room that could be used as a home office or non-conforming 4th bedroom, and the second bath with separate shower. There is also unfinished space for your storage needs.
 
 Outside, spend time on the recently refinished low-profile deck providing views of the lush yard. With beautiful landscaping, this fully fenced level backyard is perfect for get togethers with family and friends, kids that like to run, your furry friends, or your inner gardener.
 
-Additional features include an attached garage with opener, keyless entry, and new pulleys installed, newer in-ground sprinkler system, central heating and air, humidifier, thermal windows, and did we mention --- location in the Shawnee Mission East School District\! Welcome home\!
+Additional features include an attached garage with opener, keyless entry, and new pulleys installed, newer in-ground sprinkler system, central heating and air, humidifier, thermal windows, and did we mention — location in the Shawnee Mission East School District\! Welcome home\!
 
 For more information or showing options, call us directly at (913) 906-5489 OR to receive info and pictures to your mobile phone, text "SDG4" to 79564.
 
