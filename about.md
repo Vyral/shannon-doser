@@ -23,7 +23,7 @@ Over 90% of our business is generated from referrals by friends, family, past cl
 
 ---
 
-<div class="recruiting-photo"><span class="client-image-container"><img alt="Cami Savage" class="client-image" width="1143" height="1600" src="/uploads/cami-savage-use.jpg" /> </span></div>
+<div class="recruiting-photo"><span class="client-image-container"><img alt="Cami Savage" class="client-image" width="390" height="390" src="/img/cami.jpg" /> </span></div>
 
 ### Cami Savage
 
