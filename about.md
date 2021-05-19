@@ -6,7 +6,8 @@ permalink: /about/
 
 &nbsp;
 
-<div class="recruiting-photo"><span class="client-image-container"><img alt="{{site.data.settings.client.name}}" class="client-image" src="/uploads/shannon-doser.jpg" width="1067" height="1600" /> </span> <!-- <figcaption class="caption">{{site.data.settings.client.name}}</figcaption> --></div>
+<div class="recruiting-photo"><span class="client-image-container"><img alt="Shannon Doser" class="client-image" width="397" height="397" src="/img/headshot.jpg" /> </span> <!-- <figcaption class="caption">Shannon Doser</figcaption> -->
+					</div>
 
 ### Shannon Doser
 
@@ -22,7 +23,7 @@ Over 90% of our business is generated from referrals by friends, family, past cl
 
 ---
 
-<div class="recruiting-photo"><span class="client-image-container"><img alt="Cami Savage" class="client-image" src="/uploads/cami-savage-use.jpg" width="1143" height="1600" /> </span></div>
+<div class="recruiting-photo"><span class="client-image-container"><img alt="Cami Savage" class="client-image" width="1143" height="1600" src="/uploads/cami-savage-use.jpg" /> </span></div>
 
 ### Cami Savage
 
@@ -42,7 +43,7 @@ Growing up in KC and licensed since 2015, Michele is poised to be a strong advoc
 
 ### Chandra Ward
 
-A native of the Seattle area and a graduate of Washington State University, Chandra began serving the residents of Kansas City as a Realtor in 2013. Focusing on first time buyers, law enforcement and first responders, Chandra loves selling homes in Johnson and Wyandotte counties. A mother of two, Chandra strives to guide her clients with expertise and integrity and assist them with professionalism in some of the biggest decisions they make. You won't find a better advocate than Chandra\!<br>&nbsp;
+A native of the Seattle area and a graduate of Washington State University, Chandra began serving the residents of Kansas City as a Realtor in 2013. Focusing on first time buyers, law enforcement and first responders, Chandra loves selling homes in Johnson and Wyandotte counties. A mother of two, Chandra strives to guide her clients with expertise and integrity and assist them with professionalism in some of the biggest decisions they make. You won’t find a better advocate than Chandra\!<br>&nbsp;
 
 ---
 
@@ -58,7 +59,7 @@ A lifelong love of homes and a fascination with residential architecture natural
 
 ### Stephanie Vielhauer
 
-Honesty, integrity, and a passion for helping others are the core of Stephanie's business philosophy. A native of Shawnee, KS and a graduate of Kansas State University, her love of family drew her back to KC to marry her husband, George. A mother of 3 daughters, Stephanie was licensed in 2018 and began her career with SDG and Associates. Now an integral part of the team, Stephanie works hand in hand with Cami Savage to provide outstanding communication and customer service to their clients.
+Honesty, integrity, and a passion for helping others are the core of Stephanie’s business philosophy. A native of Shawnee, KS and a graduate of Kansas State University, her love of family drew her back to KC to marry her husband, George. A mother of 3 daughters, Stephanie was licensed in 2018 and began her career with SDG and Associates. Now an integral part of the team, Stephanie works hand in hand with Cami Savage to provide outstanding communication and customer service to their clients.
 
 ---
 
@@ -66,7 +67,7 @@ Honesty, integrity, and a passion for helping others are the core of Stephanie's
 
 ### Andy Olson
 
-With over 20 years of sales and marketing experience, Andy began his Real Estate career with Keller Williams in 2019. He has lived in the Kansas City area since moving from Nebraska where he graduated and attended college at Doane. Andy and his wife Jenny share 6 kids aged 12-20 and life by the family motto "Work hard, play hard." No one will work harder for his clients than Andy\!<br>&nbsp;
+With over 20 years of sales and marketing experience, Andy began his Real Estate career with Keller Williams in 2019. He has lived in the Kansas City area since moving from Nebraska where he graduated and attended college at Doane. Andy and his wife Jenny share 6 kids aged 12-20 and life by the family motto “Work hard, play hard.” No one will work harder for his clients than Andy\!<br>&nbsp;
 
 ---
 
@@ -74,4 +75,4 @@ With over 20 years of sales and marketing experience, Andy began his Real Estate
 
 ### Court Hendrickson
 
-From growing up as 1 of 11 children to a General Manager in the food industry and now as a Realtor, he has always focused on finding the "Win" for each person in every situation\! His collegiate years led him to study Secondary Education in Pensacola Florida and then to Strategic Communications at the University of Central Oklahoma, a path that would serve him well in the ever changing world of Real Estate\! In October of 2017 Court moved to Kansas City and he instantly fell in love with the people and culture of the city. A native of Oklahoma, he and Grace now proudly call KC home and look forward to their son growing up to be a Chiefs fan\!
+From growing up as 1 of 11 children to a General Manager in the food industry and now as a Realtor, he has always focused on finding the “Win” for each person in every situation\! His collegiate years led him to study Secondary Education in Pensacola Florida and then to Strategic Communications at the University of Central Oklahoma, a path that would serve him well in the ever changing world of Real Estate\! In October of 2017 Court moved to Kansas City and he instantly fell in love with the people and culture of the city. A native of Oklahoma, he and Grace now proudly call KC home and look forward to their son growing up to be a Chiefs fan\!
