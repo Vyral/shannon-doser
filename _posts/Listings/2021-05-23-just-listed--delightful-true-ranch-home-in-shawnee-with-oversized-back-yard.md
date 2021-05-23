@@ -1,9 +1,9 @@
 ---
 layout: post
 title: JUST LISTED ~ Delightful True Ranch Home in Shawnee with Oversized Back Yard!
-date: 2021-05-23 21:47:37
+date: 2021-05-23 21:47:00
 tags:
-excerpt: See 67th.SDGandAssociates.com to see all the details.
+excerpt: See the details at  67th.SDGandAssociates.com.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
