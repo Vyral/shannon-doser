@@ -6,7 +6,7 @@ permalink: /about/
 
 &nbsp;
 
-<span class="client-image-container"><img alt="Shannon Doser" class="client-image" width="375" height="375" src="/uploads/shannon-web-square-1.jpg" /> </span> <!-- <figcaption class="caption">Shannon Doser</figcaption> -->
+<span class="client-image-container"><img alt="Shannon Doser" class="client-image" width="375" height="375" src="/uploads/shannon-web-square2.jpg" /> </span> <!-- <figcaption class="caption">Shannon Doser</figcaption> -->
 {: .recruiting-photo}
 
 ### Shannon Doser
