@@ -1,21 +1,5 @@
 show_testimonials_section: true
 testimonial:
-  - name: Cami Savage
-    photo: /uploads/cami-square-web-2.jpg
-    bio: >-
-      Cami Savage is a real estate veteran in the Kansas City market. Having
-      gotten her license in 2006 just prior to the real estate crash of 2008,
-      she cut her teeth in a tough market where sellers felt they were losing at
-      every turn and buyers were fierce negotiators. In her 1st year in real
-      estate she was a Top 10 individual agent in volume sold out of a brokerage
-      of over 2000 agents.  In 2012 she put sales on hold for 3 years to take on
-      the role as the CEO of a Keller Williams office and grew that office from
-      78 to 135 agents and coached the top 20% of producing agents. In 2015 Cami
-      stepped back into sales full-time and in 2016 partnered with Shannon
-      Doser. In 2019 Cami closed $12M in volume with 98% of the units sold being
-      past clients and referrals. In addition to selling, she also contributes
-      as a coach for the agents of SDG and Associates with a focus on building
-      their business around their database and referrals.
   - name: Karen Hill
     photo: /img/karen.jpg
     bio: >-
@@ -70,3 +54,19 @@ testimonial:
       college at Doane. Andy and his wife Jenny share 6 kids aged 12-20 and life
       by the family motto "Work hard, play hard." No one will work harder for
       his clients than Andy!
+  - name: Cami Savage
+    photo: /uploads/cami-square-web-2.jpg
+    bio: >-
+      Cami Savage is a real estate veteran in the Kansas City market. Having
+      gotten her license in 2006 just prior to the real estate crash of 2008,
+      she cut her teeth in a tough market where sellers felt they were losing at
+      every turn and buyers were fierce negotiators. In her 1st year in real
+      estate she was a Top 10 individual agent in volume sold out of a brokerage
+      of over 2000 agents. In 2012 she put sales on hold for 3 years to take on
+      the role as the CEO of a Keller Williams office and grew that office from
+      78 to 135 agents and coached the top 20% of producing agents. In 2015 Cami
+      stepped back into sales full-time and in 2016 partnered with Shannon
+      Doser. In 2019 Cami closed $12M in volume with 98% of the units sold being
+      past clients and referrals. In addition to selling, she also contributes
+      as a coach for the agents of SDG and Associates with a focus on building
+      their business around their database and referrals.
