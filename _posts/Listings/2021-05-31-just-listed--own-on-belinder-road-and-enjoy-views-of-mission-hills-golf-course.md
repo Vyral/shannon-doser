@@ -3,7 +3,7 @@ layout: post
 title: >-
   JUST LISTED  ~ Own on Belinder Road and Enjoy Views of Mission Hills Golf
   Course!
-date: 2021-05-28 22:44:55
+date: 2021-05-31 01:00:00
 tags:
 excerpt: See all the details at 5332Belinder.SDGandAssociates.com
 enclosure:
