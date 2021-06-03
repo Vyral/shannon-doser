@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Well-Maintained Condo Near Westport, The Plaza and KU Med!'
+title: 'JUST LISTED! Well-Maintained Condo Near Westport, The Plaza and KU Med!'
 date: 2021-06-02 13:00:00
 tags:
 excerpt: See all the details at 4213Clark.SDGandAssociates.com
