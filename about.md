@@ -6,7 +6,7 @@ permalink: /about/
 
 &nbsp;
 
-<span class="client-image-container"><img alt="Shannon Doser" class="client-image" width="375" height="375" src="/uploads/shannon-web-square2-2.jpg" /> </span> <!-- <figcaption class="caption">Shannon Doser</figcaption> -->
+<span class="client-image-container"><img alt="Shannon Doser" class="client-image" src="/uploads/shannon-web-square2-2.jpg" /> </span> <!-- <figcaption class="caption">Shannon Doser</figcaption> -->
 {: .recruiting-photo}
 
 ### Shannon Doser
@@ -23,7 +23,7 @@ Over 90% of our business is generated from referrals by friends, family, past cl
 
 ---
 
-<div class="recruiting-photo"><span class="client-image-container"><img alt="Cami Savage" class="client-image" width="375" height="375" src="/uploads/cami-square-web-2.jpg" /> </span></div>
+<div class="recruiting-photo"><span class="client-image-container"><img alt="Cami Savage" class="client-image" src="/uploads/cami-square-web-2.jpg" /> </span></div>
 
 ### Cami Savage
 
