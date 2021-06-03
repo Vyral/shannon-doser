@@ -15,7 +15,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-## 4141 Holly Street, Kansas City, MO&nbsp; 34111
+## 4141 Holly Street, Kansas City, MO&nbsp; 64111
 
 #### DARLING HOME with Fantastic Indoor and Outdoor Space\!
 
