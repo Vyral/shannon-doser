@@ -2,7 +2,7 @@
 layout: post
 title: JUST LISTED ~ Move In Ready, Updated Townhome! This Home is a FIND!
 date: 2021-06-16 02:38:08
-excerpt: See Fisk.SDGandAssociates.com to see all the details...
+excerpt: See all the details at Fisk.SDGandAssociates.com
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -17,6 +17,9 @@ hidden: false
 ### Move In Ready, Updated Townhome\! This Home is a FIND\!<br>7008 N. Fisk Court, Kansas City, MO&nbsp; 64151
 
 Welcome home to [7008 N. Fisk Court](https://fisk.sdgandassociates.com/){: target="_blank" rel="noopener"} in the Woodsmoke Community of Kansas City, a two bedroom, two full bath townhome offering 1,584 square feet of living space bursting with updates and ready to move in and love\! Highlights include new carpeting and LVT flooring throughout the majority of the home in June 2021, new interior paint throughout in May 2021, and the deck was also refinished in June 2021. This home also has a NEW architecture type roof in 2020, energy efficient windows installed in 2018, new blinds on several windows, a closet system in the master bedroom, LED lights throughout most of the home including the utility closet, PLUS, Google Fiber was installed in 2018.
+
+* Visit Fisk.SDGandAssociates.com to see all the details, images, virtual tour and current pricing.
+* To receive info and pictures to your mobile phone, text "SDG29" to 79564.
 
 Be greeted by a grassy front yard with majestic shade tree inviting you home. Enter into the light and bright great room and notice the fresh paint in today's colors as well as the beautiful new flooring. The great room showcases a vaulted ceiling, cozy corner gas start fireplace with wood mantel above to display your special treasures or artwork, and a convenient coat closet.
 
