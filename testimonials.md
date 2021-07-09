@@ -6,7 +6,9 @@ permalink: /testimonials/
 
 # Client Testimonials
 
-&nbsp;
+Michele, I can't thank you enough for your help and patience with me/us\! I truly feel we couldn't have had a better realtor\! You were constantly there for me with your positivity, encouragement and especially your time\! I appreciate you so much\! This is an important step at any age and your competence and willingness to help us made it feel like we were your most important client.
+
+\-Dana and Brenda G.&nbsp;
 
 *When recommending or referring someone to Cami I would say she was always readily available and prompt in responding to my questions. I have always trusted her knowledge and personal efforts and that certainly lowered my stress. It was I who tried to push the list price beyond her recommendation and of course she knew better. Her communication style is professional and personal. It was not easy getting the house ready to sell because of the number of years spent in our home and the process I was going through to finally move. Cami did ALL she could to help me\!*
 
