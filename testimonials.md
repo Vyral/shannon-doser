@@ -6,7 +6,7 @@ permalink: /testimonials/
 
 # Client Testimonials
 
-Michele, I can't thank you enough for your help and patience with me/us\! I truly feel we couldn't have had a better Realtor\! You were constantly there for me with your positivity, encouragement and especially your time\! I appreciate you so much\! This is an important step at any age and your competence and willingness to help us made it feel like we were your most important client.
+*Michele, I can't thank you enough for your help and patience with me/us\! I truly feel we couldn't have had a better Realtor\! You were constantly there for me with your positivity, encouragement and especially your time\! I appreciate you so much\! This is an important step at any age and your competence and willingness to help us made it feel like we were your most important client.*
 
 \-Dana and Brenda G.&nbsp;
 
