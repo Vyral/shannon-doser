@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUST LISTED ~ SPACIOUS and Move-in-Ready Gem in Coveted Madison Ridge
-date: 2021-06-26 00:31:47
+date: 2021-07-22 00:31:00
 excerpt: See all the details at 56th.SDGandAssociates.com
 enclosure:
 pullquote:
