@@ -39,4 +39,6 @@ Outside, you will love entertaining family and friends on the multiple outdoor l
 
 Additional features include a 3-car attached garage, water softener, humidifier, and inground sprinkler system to ease your maintenance of the lush green grass and landscaping. Start making your forever memories in this exceptional home and wonderful neighborhood today.
 
+For more information or showing options, call us directly at (913) 906-5489.
+
 {% include pullquote.html %}
