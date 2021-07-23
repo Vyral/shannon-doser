@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUST LISTED ~ Gorgeous Five Bedroom in Distinctive Greens of Chapel Creek!
-date: 2021-06-26 00:31:47
+date: 2021-07-23 00:31:00
 excerpt: See all the details at Meadowlark.SDGandAssociates.com
 enclosure:
 pullquote:
@@ -14,7 +14,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-#### 7004 Meadowlark Lane, Shawnee, KS&nbsp; 66226
+#### [7004 Meadowlark Lane, Shawnee, KS&nbsp; 66226](http://Meadowlark.SDGandAssociates.com){: target="_blank" rel="noopener"}
 
 ##### Gorgeous Five Bedroom in Distinctive Greens of Chapel Creek\!<br>&nbsp;
 
