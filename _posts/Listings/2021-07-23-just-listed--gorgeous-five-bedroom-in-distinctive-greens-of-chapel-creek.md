@@ -27,4 +27,6 @@ Kitchen features granite tops, spacious walk-in pantry, large painted island, ga
 
 This desirable and well-planned Greens of Chapel Creek community feels tucked away from the hustle and bustle of city living, yet is just minutes to metro destinations. It's a true "community" offering an active and welcoming lifestyle with regular social events and gatherings, neighboring Erfert Park, a zero-entry infinity pool, Rodrock's Mom's Council, and location within the award-winning DeSoto School District. All this, and it's located on the Shawnee Golf & Country Club offering affordable club memberships and amenities.
 
+For more information or showing options, call us directly at (913) 906-5489.
+
 {% include pullquote.html %}
