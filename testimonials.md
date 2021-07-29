@@ -6,6 +6,12 @@ permalink: /testimonials/
 
 # Client Testimonials
 
+&nbsp;
+
+*My husband and I had a very stressful start to our move from Denver to KC. Our journey with finding the perfect home was very daunting and nerve wrecking. We were not first time home buyers so we had an idea of what to expect but knew it would be difficult in the extremely competitive market after Covid. Low inventory & sky- rocketing prices made the search even harder.&nbsp; Michele was always ready to move on any opportunity we wanted, including finding and accessing homes pre-MLS. She went beyond what was required as an agent and her professionalism and service is immeasurable. I cannot thank Michele Harlow and Keller Williams enough for helping us find our DREAM home\!&nbsp; &nbsp; &nbsp;Thank you so much\!*
+
+\- Jessica
+
 *Michele, I can't thank you enough for your help and patience with me/us\! I truly feel we couldn't have had a better Realtor\! You were constantly there for me with your positivity, encouragement and especially your time\! I appreciate you so much\! This is an important step at any age and your competence and willingness to help us made it feel like we were your most important client.*
 
 \-Dana and Brenda G.&nbsp;
