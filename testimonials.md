@@ -8,6 +8,10 @@ permalink: /testimonials/
 
 &nbsp;
 
+*Michele is the absolute best\! &nbsp;It is already so stressful buying a house, in this current market…try doing so 1400 miles away\!\! Michele made it so easy for us, as she took the time to really make it the same experience as if we were with her doing a walk through. She really went the extra mile and made the process seem so stress free in this crazy market we are living in these days\! &nbsp;We are super happy and excited to begin our new adventure in our new home. &nbsp;We highly recommend Michele Harlow… she will help you find your perfect dream home\!\!*
+
+\-Pat and Andy
+
 *My husband and I had a very stressful start to our move from Denver to KC. Our journey with finding the perfect home was very daunting and nerve wrecking. We were not first time home buyers so we had an idea of what to expect but knew it would be difficult in the extremely competitive market after Covid. Low inventory & sky- rocketing prices made the search even harder.&nbsp; Michele was always ready to move on any opportunity we wanted, including finding and accessing homes pre-MLS. She went beyond what was required as an agent and her professionalism and service is immeasurable. I cannot thank Michele Harlow and Keller Williams enough for helping us find our DREAM home\!&nbsp; &nbsp; &nbsp;Thank you so much\!*
 
 \- Jessica
