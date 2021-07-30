@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/1-4533w89thst-2-of-26.jpg
-youtube_code: ' https://youtu.be/qZMj_xx1Dvk'
+youtube_code: qZMj_xx1Dvk
 hidden: false
 ---
 {% include youtube.html %}
