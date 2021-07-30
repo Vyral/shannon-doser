@@ -3,15 +3,15 @@ layout: post
 title: >-
   JUST LISTED ~ Tucked Into a Lovely Cul-de-Sac is this Charming & Spacious
   Home!
-date: 2021-08-06 00:31:00
+date: 2021-07-30 00:31:00
 excerpt: See all the details at 89th.SDGandAssociates.com
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/1-4533w89thst-2-of-26.jpg
+youtube_code: ' https://youtu.be/qZMj_xx1Dvk'
 hidden: false
 ---
 {% include youtube.html %}
