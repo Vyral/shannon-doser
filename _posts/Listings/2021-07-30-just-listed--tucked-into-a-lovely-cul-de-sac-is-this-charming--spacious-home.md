@@ -22,7 +22,7 @@ hidden: false
 
 Tucked into a lovely cul-de-sac within the coveted, award winning Shawnee Mission East School District, you are just steps to Franklin Park featuring sports fields, playground, pavilion, cooking grills, play stream, sandbox, picnic tables and exercise trail.
 
-* Visit [89th](__notset__)[.SDGandAssociates.com](http://89th.SDGandAssociates.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
+* Visit [89th.SDGandAssociates.com](http://89th.SDGandAssociates.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG4" to 79564.
 
 Some of the newer updates and features of this charming 3 bedroom, 3.5 bath, 2211 square foot home include newly painted interior walls, ceilings, doors, windows and trim, updated designer lighting, newly painted front/side exterior, new hardware on interior/exterior doors, and hardwood floors in the kitchen, breakfast room, dining room and great room.
