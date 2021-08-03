@@ -9,12 +9,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/0--5129ashst-2-of-26.jpg
-youtube_code: 'W_dGBiNFDSg '
+youtube_code: ' https://youtu.be/W_dGBiNFDSg'
 hidden: false
 ---
 {% include youtube.html %}
 
-#### 5129 Ash Street, Roeland Park, KS&nbsp; 66205
+#### 5129 Ash Street, Roeland Park, KS 66205
 
 #### Beautifully Maintained HOME on a Quiet Street\!
 
