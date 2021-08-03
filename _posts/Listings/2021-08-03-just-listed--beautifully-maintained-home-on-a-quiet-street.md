@@ -9,7 +9,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/0--5129ashst-2-of-26.jpg
-youtube_code: ' https://youtu.be/W_dGBiNFDSg'
+youtube_code: https://www.youtube.com/watch?v=W_dGBiNFDSg
 hidden: false
 ---
 {% include youtube.html %}
