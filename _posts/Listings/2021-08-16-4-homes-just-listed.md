@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Homes Just Listed!
-date: 2021-08-03 00:31:00
+date: 2021-08-16 00:31:00
 excerpt: Great Opportunity for Investment or Residential Purchase!
 enclosure:
 pullquote:
