@@ -9,7 +9,7 @@ enclosure_type:
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /twin-oaks-texas-ventures-jl-branded.png
-youtube_code:
+youtube_code: https://youtu.be/yyh7NO-JOEE
 hidden: false
 ---
 {% include youtube.html %}
