@@ -16,7 +16,7 @@ hidden: false
 
 #### 4 Homes Just Listed ~ Great Opportunity for Investment or Residential Purchase\!
 
-<br>Price Range: $120,00 - $210,000
+<br>Price Range: $120,000 - $210,000
 
 [**10202 W. 88th Terrace, Overland Park, KS&nbsp; 66212**](http://10202w88.SDGandAssociates.com){: target="_blank" rel="noopener"}<br>All Brick Home Located on a Large .40 Acre Lot\!<br>3 beds \| 2 full baths \| 1,411 square feet \| .4 acres
 
