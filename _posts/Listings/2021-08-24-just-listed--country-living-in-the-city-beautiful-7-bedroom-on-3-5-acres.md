@@ -9,7 +9,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /1-6630oakgroverd-2-of-35.jpg
-youtube_code: ' https://youtu.be/J9ocQYB-2dI'
+youtube_code: J9ocQYB-2dI
 hidden: false
 ---
 {% include youtube.html %}
