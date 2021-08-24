@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUST LISTED ~ Country Living in the City! Beautiful 7 Bedroom on 3.5 Acres!
-date: 2021-08-23 00:31:00
+date: 2021-08-24 00:31:00
 excerpt: See all the details at OakGrove.SDGandAssociates.com
 enclosure:
 pullquote:
