@@ -8,7 +8,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/0--5129ashst-2-of-26.jpg
+youtube_alternate_image: /1-6630oakgroverd-2-of-35.jpg
 youtube_code: ' https://youtu.be/J9ocQYB-2dI'
 hidden: false
 ---
