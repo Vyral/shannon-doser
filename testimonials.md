@@ -6,7 +6,11 @@ permalink: /testimonials/
 
 # Client Testimonials
 
-&nbsp;
+*From the first time we met Linda, she has been so compassionate in wanting to help us find our forever home. There was never too small of a question to ask her about the process.&nbsp; Linda asked what we were looking for, and even included our daughters in the search. She never showed us anything outside of the area where we wanted to live and we have been here since May 1, 2020.*
+
+*If you are looking for someone to help you, while you do your part as well, then Linda is the best person around. We continue to keep in touch to this day.Linda Booker James is top notch in our family's book.*
+
+\- Sherry M.
 
 *Michele is the absolute best\! &nbsp;It is already so stressful buying a house, in this current market…try doing so 1400 miles away\!\! Michele made it so easy for us, as she took the time to really make it the same experience as if we were with her doing a walk through. She really went the extra mile and made the process seem so stress free in this crazy market we are living in these days\! &nbsp;We are super happy and excited to begin our new adventure in our new home. &nbsp;We highly recommend Michele Harlow… she will help you find your perfect dream home\!\!*
 
