@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /0--newcapet4213clarkave1-3-of-12.jpg
-youtube_code: ' https://youtu.be/ADIUupfd29o'
+youtube_code: ADIUupfd29o
 hidden: false
 ---
 {% include youtube.html %}
