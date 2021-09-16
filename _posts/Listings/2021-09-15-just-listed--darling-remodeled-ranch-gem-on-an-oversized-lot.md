@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JUST LISTED ~ DARLING Remodeled Ranch Gem on and Oversized Lot!
+title: JUST LISTED ~ DARLING Remodeled Ranch Gem on an Oversized Lot!
 date: 2021-09-15 14:00:00
 tags:
 excerpt: See all the details at Dearborn.SDGandAssociates.com
