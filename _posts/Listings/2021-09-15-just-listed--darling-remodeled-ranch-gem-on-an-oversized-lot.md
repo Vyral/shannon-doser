@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /1-5345dearbornst-1-of-29.jpg
-youtube_code: hdjPu9wdctM
+youtube_code: vyrV9c5DdmQ
 hidden: false
 ---
 {% include youtube.html %}
