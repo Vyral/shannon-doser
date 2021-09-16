@@ -17,7 +17,7 @@ hidden: false
 
 ## [5343 Dearborn St, Mission, KS&nbsp; 66202](http://Dearborn.SDGandAssociates.com){: target="_blank" rel="noopener"}
 
-### DARLING Remodeled Ranch Gem on and Oversized Lot\!
+### DARLING Remodeled Ranch Gem on an Oversized Lot\!
 
 This DARLING home sits on an oversized lot with plenty of outdoor living space that includes a NEW COMPOSITE DECK, a large patio overlooking the fenced in garden, and a playset that stays. The remodel of this 3 bedroom, 3 1/2 bath home extends beyond the work that was done 1-2 years ago that included a NEW ROOF, NEW kitchen with granite and stainless steel appliances, new carpeting, wood floors, and new 1 and 1/2 bathrooms.
 
