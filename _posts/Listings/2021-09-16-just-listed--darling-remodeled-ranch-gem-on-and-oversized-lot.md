@@ -15,7 +15,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-## [5343 Dearborn St](http://Dearborn.SDGandAssociates.com){: target="_blank" rel="noopener"}, Mission, KS&nbsp; 66202<br>
+## [5343 Dearborn St, Mission, KS&nbsp; 66202](http://Dearborn.SDGandAssociates.com){: target="_blank" rel="noopener"}
 
 ### DARLING Remodeled Ranch Gem on and Oversized Lot\!
 
