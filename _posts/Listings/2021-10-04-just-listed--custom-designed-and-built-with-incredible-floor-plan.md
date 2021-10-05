@@ -24,7 +24,7 @@ hidden: false
 
 Welcome home to 524 NW Edgewood Trail\! This wonderfully MAINTAINED HOME is sited on an approximate half acre wooded lot and has an incredible floor plan for easy living and entertaining, along with a backyard view NOT TO BE BEAT\! Custom designed and built, special features and various heights of ceilings, including soaring vaulted ceilings, along with a walk-out basement, all make this home feel even larger than the 3500+ s/f of finished living space.
 
-* Visit [EdgewoodTrail](__notset__)[.SDGandAssociates.com](http://EdgewoodTrail.SDGandAssociates.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
+* Visit [EdgewoodTrail.SDGandAssociates.com](http://EdgewoodTrail.SDGandAssociates.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG7" to 79564.
 
 The LARGE KITCHEN with tasteful granite and all new (2 years old) appliances looks over the vaulted dining area to see a wall of windows with a VIEW over the deck into the beautiful treed backyard. Off the foyer is the flexible FORMAL DINING room with sophisticated wainscoting that also makes for a great office. The stunning GREAT ROOM showcases a soaring cathedral ceiling, cozy gas fireplace, and numerous stacked windows providing lovely natural light to this generously sized space.
