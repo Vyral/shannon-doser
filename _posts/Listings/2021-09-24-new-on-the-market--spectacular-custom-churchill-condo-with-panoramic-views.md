@@ -24,7 +24,7 @@ hidden: false
 
 Welcome home to [803 W 48th Street Unit 804](http://48th.SDGandAssociates.com){: target="_blank" rel="noopener"}, a spectacular upscale custom Winston Churchill condo with panoramic views of The Plaza and Brush Creek.
 
-* Visit [48th.SDGandAssociates.com](http://48th.SDGandAssociates.com){: target="_blank" rel="noopener"}to see all the details, images, virtual tour and current pricing.
+* Visit [48th.SDGandAssociates.com](http://48th.SDGandAssociates.com){: target="_blank" rel="noopener"}&nbsp;to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG6" to 79564.
 
 The Churchill Condos is a modern 12-story building located in the heart of The Plaza, Kansas City's upscale residential neighborhood and shopping district. Steps away from the Winston Churchill are 14 blocks of beautiful streetscapes boasting over 120 boutiques, local shops, and national retailers. Nearly 30 unique restaurants, cafes, and bars offer an incredible variety of dining options.
