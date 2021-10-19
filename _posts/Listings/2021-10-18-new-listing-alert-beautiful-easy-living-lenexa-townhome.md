@@ -17,7 +17,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-## 12205 W. 79th Terrace, Lenexa, KS&nbsp; 62215
+## 12205 W. 79th Terrace, Lenexa, KS&nbsp; 66215
 
 ### Beautiful EASY LIVING Lenexa Townhome\!
 
@@ -26,7 +26,7 @@ Welcome home to [12205 W. 79th Terrace](http://79th.SDGandAssociates.com){: targ
 * Visit [79th.SDGandAssociates.com](http://79th.SDGandAssociates.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG8" to 79564.
 
-Retreat upstairs for more privacy -- tray ceiling in the master bedroom, along with built-ins, large closet and master bath with soaking tub and shower. There is also a cedar closet in the additional flex space that can be used as a second bedroom, home office or sitting room.
+Retreat upstairs for more privacy – tray ceiling in the master bedroom, along with built-ins, large closet and master bath with soaking tub and shower. There is also a cedar closet in the additional flex space that can be used as a second bedroom, home office or sitting room.
 
 The water heater is less than one year old, the HVAC has been serviced and cleaned, and the roof is in good condition and covered by the HOA for repairs and replacement. Community amenities include a pool, tennis courts, play area, club house and trails. All appliances stay\!
 
