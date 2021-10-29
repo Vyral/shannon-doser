@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JUST LISTED TODAY! Beautifully Maintained Corner End-Unit Townhome!
+title: JUST LISTED ~ Beautifully Maintained Corner End-Unit Townhome!
 date: 2021-10-29 09:00:00
 tags:
     - Real Estate
