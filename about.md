@@ -13,20 +13,7 @@ permalink: /about/
 &nbsp;
 {: .testimonial}
 
-I’ve been working in real estate since 2006 and am fortunate that I get to lead a talented group of Realtors that work together under the name SDG and Associates. Together we have helped thousands of people buy, sell, and invest in Real Estate over the past 13 years.<br><br>We strive to be a down-to-earth team that focuses on our 3 GUIDING PRINCIPLES:<br>● Serve with integrity<br>● Deliver on promises<br>● Give to others<br><br>While the industry has changed significantly in the past decade, we have focused on staying in front of technology. We realize that the REAL value we bring to our clients is through our expertise in the real estate process, and most importantly, our negotiating skills.<br><br>Anyone with a real estate license can open a door, search the internet, and fill out a contract. I don’t think you should be satisfied with that level of service\! We are here to help people understand a process they may only go through once every 7 to 15 years. We will always be honest, represent YOUR interests, and protect you from making a mistake that could cost your family tens of thousands of dollars.<br><br>Over 90% of our business is generated from referrals by friends, family, past clients, and fellow agents across the U.S. That should be an indication as to what our priorities are and what our service is like. Our reputation is our most valuable asset and we never take it for granted. Thank you for the opportunity to earn your business\!
-
-&nbsp;
-
----
-
-<div class="recruiting-photo"><span class="client-image-container"><img alt="Cami Savage" class="client-image" src="/uploads/cami-square-web-2.jpg" /> </span></div>
-
-### Cami Savage
-
-&nbsp;
-{: .testimonial}
-
-Cami Savage is a real estate veteran in the Kansas City market. Having gotten her license in 2006 just prior to the real estate crash of 2008, she cut her teeth in a tough market where sellers felt they were losing at every turn and buyers were fierce negotiators. In her 1st year in real estate she was a Top 10 individual agent in volume sold out of a brokerage of over 2000 agents. In 2012 she put sales on hold for 3 years to take on the role as the CEO of a Keller Williams office and grew that office from 78 to 135 agents and coached the top 20% of producing agents. In 2015 Cami stepped back into sales full-time and in 2016 partnered with Shannon Doser. In 2019 Cami closed $12M in volume with 98% of the units sold being past clients and referrals. In addition to selling, she also contributes as a coach for the agents of SDG and Associates with a focus on building their business around their database and referrals.
+I’ve been working in real estate since 2006 and am fortunate that I get to lead a talented group of Realtors that work together under the name SDG and Associates. Together we have helped thousands of people buy, sell, and invest in Real Estate over the past 13 years.<br><br>We strive to be a down-to-earth team that focuses on our 3 GUIDING PRINCIPLES:<br>● Serve with integrity<br>● Deliver on promises<br>● Give to others<br><br>While the industry has changed significantly in the past decade, we have focused on staying in front of technology. We realize that the REAL value we bring to our clients is through our expertise in the real estate process, and most importantly, our negotiating skills.<br><br>Anyone with a real estate license can open a door, search the internet, and fill out a contract. I don’t think you should be satisfied with that level of service\! We are here to help people understand a process they may only go through once every 7 to 15 years. We will always be honest, represent YOUR interests, and protect you from making a mistake that could cost your family tens of thousands of dollars.<br><br>Over 90% of our business is generated from referrals by friends, family, past clients, and fellow agents across the U.S. That should be an indication as to what our priorities are and what our service is like. Our reputation is our most valuable asset and we never take it for granted. Thank you for the opportunity to earn your business\!<span class="client-image-container"> </span>
 
 &nbsp;
 
