@@ -61,7 +61,7 @@ client:
 
 
     Shannon
-  brand: SDG and Associates
+  brand: Shannon Doser Group
   brokerage:
   market: Kansas City
   address: 6850 College Blvd Overland Park,KS 66211
@@ -69,8 +69,8 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: Hello@SDGandAssociates.com
-  url: http://www.SDGandAssociates.com
+  email: Hello@ShannonDoserGroup.com
+  url: http://www.ShannonDoserGroup.com
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
