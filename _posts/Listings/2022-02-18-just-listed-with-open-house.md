@@ -21,9 +21,11 @@ hidden: false
 
 ### Gorgeous Greystone West Home on Large Lot\! Shawnee Mission SD\!
 
-Welcome home to [13330 W. 77th Terrace](http://77th.ShannonDoserGroup.com){: target="_blank" rel="noopener"} in the Greystone Estates West community of Shawnee. This gorgeous 1.5 story home offers 4 bedrooms, 2.1 baths, and 2,377 square feet of wonderful living space situated on a stunning third acre corner lot\! Some of the highlights and improvements include newer, rich hardwood flooring throughout the main living areas, a fully equipped kitchen with white cabinetry and one-year young appliances, main level master suite, updated bathrooms, new windows throughout, new patio cover, new sprinkler system, wrought iron fence in the backyard, landscaping around the entire property, and additional insulation added to the attic and basement. Plus, this home is located in the Award-Winning Shawnee Mission School District\!
+Welcome home to [13330 W. 77th Terrace](http://77th.ShannonDoserGroup.com){: target="_blank" rel="noopener"} in the Greystone Estates West community of Shawnee.
 
 **Be sure to join us at our OPEN HOUSE on Saturday, 2/19 from 10am-2pm\!**
+
+This gorgeous 1.5 story home offers 4 bedrooms, 2.1 baths, and 2,377 square feet of wonderful living space situated on a stunning third acre corner lot\! Some of the highlights and improvements include newer, rich hardwood flooring throughout the main living areas, a fully equipped kitchen with white cabinetry and one-year young appliances, main level master suite, updated bathrooms, new windows throughout, new patio cover, new sprinkler system, wrought iron fence in the backyard, landscaping around the entire property, and additional insulation added to the attic and basement. Plus, this home is located in the Award-Winning Shawnee Mission School District\!
 
 * Visit [77th.ShannonDoserGroup.com](http://77th.ShannonDoserGroup.com){: target="_blank" rel="noopener"}&nbsp;to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG33" to 79564.
