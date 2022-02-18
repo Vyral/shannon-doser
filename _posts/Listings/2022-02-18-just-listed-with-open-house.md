@@ -19,7 +19,7 @@ hidden: false
 
 ## 13330 W. 77th Terrace, Shawnee, KS&nbsp; 66216
 
-### Gorgeous Greystone West Home on Large Lot\! Shawnee Mission SD\!
+### Gorgeous Greystone Estates West Home on Large Lot\! Shawnee Mission School District\!
 
 Welcome home to [13330 W. 77th Terrace](http://77th.ShannonDoserGroup.com){: target="_blank" rel="noopener"} in the Greystone Estates West community of Shawnee.
 
