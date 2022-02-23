@@ -5,7 +5,7 @@ date: 2022-02-22 21:00:00
 tags:
   - Real Estate
   - Home for Sale
-excerpt: See all the details at 77th.ShannonDoserGroup.com
+excerpt: See all the details at Roundtree.ShannonDoserGroup.com
 enclosure:
 pullquote:
 enclosure_type: video/mp4
