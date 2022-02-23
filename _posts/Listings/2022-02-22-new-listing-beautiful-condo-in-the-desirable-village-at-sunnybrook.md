@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NEW LISTING! Beautiful Condo in the Desirable Village at Sunnybrook!
-date: 2022-02-23 09:00:00
+date: 2022-02-22 21:00:00
 tags:
   - Real Estate
   - Home for Sale
@@ -17,13 +17,13 @@ hidden: false
 ---
 {% include youtube.html %}
 
-## 11751 S. Roundtree St, \#203, Olathe, KS&nbsp; 66061
+## 11751 S. Roundtree St, \#203, Olathe, KS 66061
 
 ### Beautiful Condo in the Desirable Village at Sunnybrook\!
 
 Welcome home to [11751 S. Roundtree Street, \#203](http://Roundtree.ShannonDoserGroup.com){: target="_blank" rel="noopener"}, in the desirable Village at Sunnybrook community of Olathe, a beautifully maintained two bedroom, two full bath, corner condo offering 1,240 square feet of open concept living space\! You will love the beautiful new luxury vinyl plank flooring, easy flow between the light and bright living spaces, and the wonderful location, including being walking distance to schools within the award-winning Olathe school district, the recipient of 17 Blue Ribbon School Awards and a 2020 U.S. Presidential Scholar Recipient.
 
-* Visit [Roundtree.ShannonDoserGroup.com](http://Roundtree.ShannonDoserGroup.com){: target="_blank" rel="noopener"}&nbsp;to see all the details, images, virtual tour and current pricing.
+* Visit [Roundtree.ShannonDoserGroup.com](http://Roundtree.ShannonDoserGroup.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG23" to 79564.
 
 Be greeted by a delightful covered front porch welcoming you home. Once inside, notice the beautiful new LVP flooring, soothing colors found throughout, and the open concept living.
