@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gorgeous Home with Stylish Updates! '
+title: 'Coming Soon ~ Gorgeous Home with Stylish Updates! '
 date: 2022-03-01 09:00:00
 tags:
   - Real Estate
@@ -23,7 +23,7 @@ hidden: false
 
 Welcome home to [7906 W. 142nd Terrace](http://142nd.ShannonDoserGroup.com){: target="_blank" rel="noopener"} in the Southern Oaks community of Overland Park, a beautiful 4 bedroom, 3 full bath home offering 2,171 square feet of stylishly updated living space. Some of the highlights include updated bathrooms, beautiful hardwood floors, vaulted ceilings, a fully equipped kitchen, finished walk-out basement, raised deck with pergola, free form patio, fenced yard, sprinklers, newer exterior paint, and MORE\! You won't want to leave\! And did we mention, this home is located in the award-winning Blue Valley School District?
 
-* Visit [1](http://Roundtree.ShannonDoserGroup.com){: target="_blank" rel="noopener"}[42nd.ShannonDoserGroup.com&nbsp;](http://142nd.ShannonDoserGroup.com){: target="_blank" rel="noopener"}to see all the details, images, virtual tour and current pricing.
+* Visit [142nd.ShannonDoserGroup.com](http://142nd.ShannonDoserGroup.com){: target="_blank" rel="noopener"}&nbsp;to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG27" to 79564.
 
 Be greeted by a grassy front yard with mature trees and lovely landscaping leading you to the front porch. Step inside the entry and notice the soaring vaulted ceilings and the light and bright living spaces. The great room also features a gorgeous gas fireplace with tile surround and embellished mantel, a refreshing lighted ceiling fan, and a series of windows spanning the front wall allowing natural light to illuminate the room.
