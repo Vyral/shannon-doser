@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Coming Soon ~ Gorgeous Home with Stylish Updates! '
+title: 'JUST LISTED ~ Gorgeous Home with Stylish Updates! '
 date: 2022-03-01 09:00:00
 tags:
   - Real Estate
