@@ -19,7 +19,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-## 8611 Grant Drive, Raytown, MO&nbsp; 61438
+## 8611 Grant Drive, Raytown, MO&nbsp; 64138
 
 ### Bring Back the Sparkle in this Fixer Upper for a Smart Investment\!
 
