@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SO MANY UPDATES! Raytown Gem on a Half Acre Corner Lot!
-date: 2022-04-12 09:00:00
+date: 2022-04-11 09:00:00
 tags:
   - Real Estate
   - Home for Sale
