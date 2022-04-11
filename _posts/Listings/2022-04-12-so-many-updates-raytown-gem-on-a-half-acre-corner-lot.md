@@ -11,19 +11,19 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/1--8611grantdr-25-of-29.jpg
-youtube_code: '-58KG70v8Z0'
+youtube_alternate_image: /uploads/1-8816e83rdst-1-of-27.jpg
+youtube_code: En2n1ZL1emM
 hidden: false
 ---
 {% include youtube.html %}
 
-## 8816 E 83rd St, Raytown, MO&nbsp; 64138
+## 8816 E 83rd St, Raytown, MO 64138
 
 ### SO MANY UPDATES\! Raytown Gem on a Half Acre Corner Lot\!
 
-SO MANY UPDATES in this Raytown Gem on a Half-Acre Corner Lot\! Welcome home to [8816 E. 83rd Street](http://8816e83.shannondosergroup.com){: target="_blank" rel="noopener"}, conveniently located in the Sechrest Heights community of Raytown.&nbsp;
+SO MANY UPDATES in this Raytown Gem on a Half-Acre Corner Lot\! Welcome home to [8816 E. 83rd Street](http://8816e83.shannondosergroup.com){: target="_blank" rel="noopener"}, conveniently located in the Sechrest Heights community of Raytown.
 
-* Visit [8816e83.ShannonDoserGroup.com](http://8816e83.ShannonDoserGroup.com){: target="_blank" rel="noopener"}&nbsp;to see all the details, images, virtual tour and current pricing.
+* Visit [8816e83.ShannonDoserGroup.com](http://8816e83.ShannonDoserGroup.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG6" to 79564.
 
 This home offers three bedrooms, two full baths, and 1,936 square feet of living space, situated on a large half acre corner lot. Plus, there is so much new, and so many updates to fall in love with, including fresh exterior and interior paint in March 2022, new interior doors, new blinds throughout, new HVAC August 2021, granite in both bathrooms, quartz countertops in kitchen, newer stainless steel appliances in 2021, newer LVP flooring and carpet on the main level, newer sprinkler system, prepaid lawn care service for 2022, maintenance free fence, Ring doorbell, and newer front door, garage doors and garage exit door.
@@ -38,7 +38,7 @@ All three bedrooms are on this main level. The spacious master suite features a 
 
 Head downstairs to the huge rec room with included billiards table and plenty of room for additional gaming tables, or just relax in front of the brick fireplace. On this level you will also find the laundry room with included washer and dryer and built-in shelving.
 
-Outside, entertain family and friends on the raised deck. Take the stairs to the large, grassy, and fenced backyard with additional mature ornamental and shade trees, the perfect backdrop for hosting your next barbecue.&nbsp;
+Outside, entertain family and friends on the raised deck. Take the stairs to the large, grassy, and fenced backyard with additional mature ornamental and shade trees, the perfect backdrop for hosting your next barbecue.
 
 For more information or showing options, call us directly at (913) 906-5489 OR to receive info and pictures to your mobile phone, text "SDG6" to 79564.
 
