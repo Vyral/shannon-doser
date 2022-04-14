@@ -6,6 +6,46 @@ permalink: /testimonials/
 
 # Client Testimonials
 
+*Linda Booker-James has been an invaluable asset and resource for our buying experience. She remained very communicative and responsive with all questions and concerns. Additionally, Linda was consistently and uniquely attuned to every concern or dislike we had and was always willing to explain, in great detail, to put us at ease. The competence and confidence Linda exudes is like no other and I would recommend her services to anyone, especially new buyers. Linda is an utter-delight; and my husband and I are honored to now consider her an honorary family member.*
+
+\-Na'Ron H.
+
+*My wife and I could not be more pleased with our buying experience with Michele and Linda. Professional, knowledgeable, and extremely in touch with our wants and needs, these are two top-notch agents in the KC area. We cannot stress how many times they went above and beyond to help us find our perfect home. Thanks to both, we are 100% satisfied and highly recommend Michele and Linda.*
+
+\-Ron A.
+
+*Michele was absolutely phenomenal taking care of us in a unique situation. She always responded to questions immediately and set up showings as soon as we liked something. She got us into the absolutely perfect home in just a couple months of working with her\!*
+
+\-Natasha M.
+
+*Fantastic service, helped us close on a new build. Shannon and her team were always available, answered all of our questions in a timely fashion, and were always available day and night. Couldn’t have asked for more\!*
+
+\-Todd P.
+
+*This was quite possibly the easiest purchase and sale I’ve ever experienced. Shannon and her team are top notch. Every question was answered quickly and we were always made to feel like we were being represented by the best in the business. We received over asking price on our home and paid a very fair price on our new purchase. All negotiated by Shannon. I don’t plan on moving anytime soon, but I always recommend Shannon and her team to friends and family who are in the market to buy or sell.*
+
+\-April T.&nbsp;
+
+*Absolutely the best experience I have ever had selling a home. Shannon and her team went above and beyond getting my house on the market and sold before it even hit the MLS. They are so very easy to work with and would highly recommend to anyone looking for a very professional and responsive company. I look forward to working with them in my future. An A+ rating for sure\!\!*
+
+\-Lisa K.
+
+*Karen Hill was both professional and personable.Our experience was somewhat unique due to the rather spontaneous choice to sell our home. With next to no time to plan, Karen managed to help us prepare by staging our home as well as hiring a professional to photograph it. Our home’s listing went live within 48 hours, and sold the first day it was listed.Additionally, Karen helped us navigate some speed bumps we’d not have known how to manage on our own.Without hesitation, I would recommend this realtor to anyone buying or selling a home.*
+
+\-Robin K.
+
+*Shannon and her team are very knowledgeable of multiple areas around Kansas City. They listen, pay attention to details and genuinely enjoy working with buyers and sellers. They make the home buying and selling process as easy as possible\! Shannon worked tirelessly with us to help us sell our home and find our dream property.*
+
+\-Zonna H.
+
+*Shannon and team helped us sell our home and purchase two properties in a 60 day period. All closings and procedures took place smoothly and any questions or concerns were responded to in a timely manner with a great deal of professionalism. When partnering with this group you don’t just get a realtor, you get a team of professionals.*
+
+\-Danny W.
+
+*I worked with Chandra Ward specifically and had an AMAZING experience. Chandra made sure to make my buy and sell a seamless experience with as little stress as possible. Chandra was always available by phone and even went out of her way to do special things on Mother’s Day and for my dogs\! I will be referring her to all of my friends and family and anyone that I ever come across that needs a realtor\!*
+
+\-Christa R.&nbsp;
+
 *From the first time we met Linda, she has been so compassionate in wanting to help us find our forever home. There was never too small of a question to ask her about the process.&nbsp; Linda asked what we were looking for, and even included our daughters in the search. She never showed us anything outside of the area where we wanted to live and we have been here since May 1, 2020.*
 
 *If you are looking for someone to help you, while you do your part as well, then Linda is the best person around. We continue to keep in touch to this day.Linda Booker James is top notch in our family's book.*
