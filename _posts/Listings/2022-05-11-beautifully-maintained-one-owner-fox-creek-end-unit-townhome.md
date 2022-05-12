@@ -28,7 +28,7 @@ Welcome home to [15367 NW 123rd](http://123rd.ShannonDoserGroup.com){: target="_
 
 Be welcomed by a grassy front yard inviting you to the covered front porch. Step inside and notice the fresh paint and the open flow between the living spaces. The fully equipped, eat-in kitchen highlights rich and abundant cabinetry, loads of gorgeous counters, a peninsula with bar seating, and a breakfast area with chandelier lighting. All-black appliances include the French door refrigerator with dispensers, smooth surface range, built-in microwave, dishwasher, and disposal. Also off the kitchen is the half bath for the convenience of your guests.
 
-Open to the kitchen is the great room offering new high-end carpet, fresh paint, cozy gas fireplace with art niche above, lighted ceiling fan, and sliding door leading to the raised deck.
+Open to the kitchen is the great room offering new high-end carpet, fresh paint, cozy gas fireplace with art niche above, lighted ceiling fan, and glass door leading to the raised deck.
 
 Ascend the stairs to the bedroom level. The huge master suite showcases a deep recessed ceiling with refreshing lighted ceiling fan, new carpet, fresh paint, and private full bath highlighting an expansive double vanity, walk-in closet, large walk-in shower, and separate water closet. There are two additional bedrooms, each with lighted ceiling fans and en-suite access to the Jack-and-Jill bath with double vanity and a shower over tub. Conveniently located on the bedroom level is the laundry area with included washer and dryer.
 
