@@ -27,7 +27,7 @@ ONE-OF-A-KIND CUSTOM LOG HOME, PEACEFUL COUNTRY LIVING, 3 ACRES, AND A BEAUTIFUL
 
 Quality LOG HOME built by "Amish Builders" perfectly sited on 3 pastoral acres just minutes from Lee's Summit in the upscale Forest Lake Estates wooded subdivision with many other log homes.&nbsp;
 
-* Visit [260th.ShannonDoserGroup.com](http://260thShannonDoserGroup.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
+* Visit [260th.ShannonDoserGroup.com](http://260th.ShannonDoserGroup.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG26" to 79564.
 
 Beautiful landscaping is featured all around the house with sidewalks in both front and back. Large rocking chair front porch with pastoral views welcomes you home. Soaring, open beam, cathedral ceiling in the great room with view to the open loft and numerous stacked windows providing an open feel with abundant natural lighting. Relax by the stunning floor-to-ceiling stone, gas log fireplace with wood mantel. Beautiful wood floors, wainscoting, and custom touches throughout.&nbsp;
