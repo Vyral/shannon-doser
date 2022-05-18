@@ -23,7 +23,7 @@ hidden: false
 
 Welcome home to [16337 148th Street](http://148th.shannondosergroup.com/){: target="_blank" rel="noopener"} in the Timberlake community of Bonner Springs. This stunning home offers four bedrooms, four full plus one half baths, and 3,830 square feet of fabulous living space situated on a gorgeous estate lot just off the lake and backing to a lovely walking trail\! You will also appreciate over $100K in home improvements since 2011, including a kitchen renovation in 2014, new roof, garage doors and openers, and front storm door in 2016, new windows, stone landscaping walls, and much more. .
 
-* Visit [148th.ShannonDoserGroup.com](http://148th.ihousenet.com/){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
+* Visit [148th.ShannonDoserGroup.com](http://148th.shannondosergroup.com/){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG4" to 79564.
 
 Wonderful curb appeal welcomes you home with a grassy front yard, impeccable landscaping, rock wall, lovely shade and ornamental trees, and brick front accents. Step inside the soaring foyer with gorgeous wood flooring and notice the soothing colors and easy flow between the living spaces. Continue to the great room highlighting a captivating floor-to-ceiling gas log fireplace with sophisticated surround, ceiling fan, and a series of windows providing lovely views.
