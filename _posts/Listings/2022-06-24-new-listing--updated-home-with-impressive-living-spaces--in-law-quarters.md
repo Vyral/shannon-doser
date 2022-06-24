@@ -21,7 +21,7 @@ hidden: false
 
 ### Updated Home with Impressive Living Spaces + In-Law Quarters\!
 
-Welcome home to [10172 Edelweiss Circle](http://Edelweiss.ShannonDoserGroup.com){: rel="noreferrer"} in the Edelweiss community of Merriam, a beautiful 4 bedroom, 4 full bath home featuring 2,605 square feet of living space located on a cul-de-sac\! Highlights include a fully finished walkout basement with kitchenette, two fireplaces, two main level bedrooms, including the master suite, beautiful kitchen with newer appliances, large backyard with shade trees, and more\! You will also love that this home is located in the coveted Shawnee Mission School District\!
+Welcome home to [10172 Edelweiss Circle](http://Edelweiss.ShannonDoserGroup.com){: target="_blank" rel="noopener"} in the Edelweiss community of Merriam, a beautiful 4 bedroom, 4 full bath home featuring 2,605 square feet of living space located on a cul-de-sac\! Highlights include a fully finished walkout basement with kitchenette, two fireplaces, two main level bedrooms, including the master suite, beautiful kitchen with newer appliances, large backyard with shade trees, and more\! You will also love that this home is located in the coveted Shawnee Mission School District\!
 
 * Visit [Edelweiss.ShannonDoserGroup.com](http://Edelweiss.ShannonDoserGroup.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG7" to 79564.
