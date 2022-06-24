@@ -3,7 +3,7 @@ layout: post
 title: >-
   JUST LISTED with OPEN HOUSE! Fabulous Like-New 4 Bedroom Gem with Large Fenced
   Yard!
-date: 2022-06-24 09:00:00
+date: 2022-06-23 09:00:00
 tags:
   - Real Estate
   - Home for Sale
@@ -23,7 +23,7 @@ hidden: false
 
 ### Fabulous Like-New 4 Bedroom Gem with Large Fenced Yard\!
 
-<br>**OPEN HOUSE: Saturday, 6/25, 1-3pm\! See you there...**<br><br>Welcome home to 19609 W 197th Street in the Boulder Springs community of Spring Hill. This fabulous like-new home boasts 4 bedrooms, 2.1 baths, and 2,202 square feet of living space. You will fall in love with the beautiful flooring, open floorplan, gorgeous kitchen with stainless appliances, stunning master suite, bedroom level laundry, large fenced yard, patio, and more\!
+<br>**OPEN HOUSE: Saturday, 6/25, 1-3pm\! See you there…**<br><br>Welcome home to 19609 W 197th Street in the Boulder Springs community of Spring Hill. This fabulous like-new home boasts 4 bedrooms, 2.1 baths, and 2,202 square feet of living space. You will fall in love with the beautiful flooring, open floorplan, gorgeous kitchen with stainless appliances, stunning master suite, bedroom level laundry, large fenced yard, patio, and more\!
 
 * Visit [197th.ShannonDoserGroup.com](http://197th.ShannonDoserGroup.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG9" to 79564.
