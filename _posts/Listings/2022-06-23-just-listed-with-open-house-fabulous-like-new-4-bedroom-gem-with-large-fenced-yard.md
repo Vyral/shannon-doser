@@ -14,16 +14,16 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/0--19609-197thst-2-of-25.jpg
-youtube_code: u4YPyhtKdKw
+youtube_code: BayLiMcQSR4
 hidden: false
 ---
 {% include youtube.html %}
 
-## 19609 W. 19th St, Spring Hill, KS&nbsp; 66083
+## 19609 W. 19th St, Spring Hill, KS 66083
 
 ### Fabulous Like-New 4 Bedroom Gem with Large Fenced Yard\!
 
-JUST LISTED with an OPEN HOUSE\! We look forward to seeing you...
+JUST LISTED with an OPEN HOUSE\! We look forward to seeing you…
 
 **🎈 OPEN HOUSE: Saturday, June 25th from 1-3pm\!**
 
