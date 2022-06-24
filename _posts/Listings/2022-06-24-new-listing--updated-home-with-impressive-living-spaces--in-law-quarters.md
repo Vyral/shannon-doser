@@ -5,7 +5,7 @@ date: 2022-06-24 09:00:00
 tags:
   - Real Estate
   - Home for Sale
-excerpt: See all the details at Edwlweiss.ShannonDoserGroup.com
+excerpt: See all the details at Edelweiss.ShannonDoserGroup.com
 enclosure:
 pullquote:
 enclosure_type: video/mp4
