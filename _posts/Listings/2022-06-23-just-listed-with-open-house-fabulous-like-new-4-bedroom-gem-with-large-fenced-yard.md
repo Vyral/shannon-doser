@@ -19,7 +19,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-## 19609 W. 19th St, Spring Hill, KS 66083
+## 19609 W. 197th St, Spring Hill, KS 66083
 
 ### Fabulous Like-New 4 Bedroom Gem with Large Fenced Yard\!
 
