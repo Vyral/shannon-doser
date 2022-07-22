@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Coming Soon! Showings Start 7/21!
-date: 2022-07-15 09:00:00
+title: JUST LISTED!
+date: 2022-07-21 09:00:00
 tags:
   - Real Estate
   - Home for Sale
@@ -21,9 +21,9 @@ hidden: false
 
 ### Circa 1930 Dutch Colonial Style Home with Yesteryear Charm
 
-**Showings Start Thursday, 7/21\!**
+&nbsp;
 
-Are you dreaming of an older home with yesteryear charm? This timeless Circa 1930 Dutch Colonial style home with old-fashioned details and charm at [408 N 4th Street](http://4th.ShannonDoserGroup.com){: target="_blank" rel="noopener"} in Leavenworth offers two large bedrooms, one full bath, and 1,216 square feet of living space. Highlights include the large wrap-around front porch, hardwood floors, wonderful wood trim elements, a quaint kitchen, living and dining rooms. This home is filled with nostalgia waiting for your personal touch.
+Are you dreaming of an older home with yesteryear charm? This timeless Circa 1930 Dutch Colonial style home with old-fashioned details and charm at [408 N 4th Street](http://4th.ShannonDoserGroup.com){: target="_blank" rel="noopener"} in Leavenworth offers two large bedrooms, one full bath, and 1,216 square feet of living space. Highlights include a BRAND NEW ROOF, large wrap-around front porch, hardwood floors, wonderful wood trim elements, a quaint kitchen, living and dining rooms. This home is filled with nostalgia waiting for your personal touch.
 
 * Visit [4th.ShannonDoserGroup.com](http://4th.ShannonDoserGroup.com){: target="_blank" rel="noopener"} to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG8" to 79564.
