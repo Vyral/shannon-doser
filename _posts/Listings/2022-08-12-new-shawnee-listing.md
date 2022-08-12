@@ -23,7 +23,7 @@ hidden: false
 
 Welcome home to [4813 Stearns Lane](http://4813Stearns.ShannonDoserGroup.com){: target="_blank" rel="noopener"}, a well-maintained home on a quiet street in Hickory Hill Estates. This three bedroom, two full bath home highlights 1,473 square feet, newer windows throughout, an updated master bath, great back deck and fenced yard for entertaining, two fireplaces, a formal dining room, separate living and family rooms, and easy access to highway and nearby shopping center. This home is also located in the coveted and award winning Shawnee Mission School District.
 
-* Visit [4813Stearns.ShannonDoserGroup.com](http://4813Stearns.ShannonDoserGroup.com){: target="_blank" rel="noopener"}to see all the details, images, virtual tour and current pricing.
+* Visit [4813Stearns.ShannonDoserGroup.com](http://4813Stearns.ShannonDoserGroup.com){: target="_blank" rel="noopener"}&nbsp;to see all the details, images, virtual tour and current pricing.
 * To receive info and pictures to your mobile phone, text "SDG3" to 79564.
 
 Enter to the two-story foyer and continue to the living room with large window overlooking the front yard and providing lovely natural lighting. The formal dining room highlights a recessed tray ceiling with chandelier lighting along with a half wall opening to the kitchen offering a subtle separation of space. The kitchen features a floor-to-ceiling masonry fireplace, abundant cabinetry and counter space, all-black appliances, and full mosaic tile backsplash.
