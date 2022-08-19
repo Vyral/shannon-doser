@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COMING SOON in Blue Springs!
+title: JUST LISTED!!!
 date: 2022-08-18 09:00:00
 tags:
   - Real Estate
