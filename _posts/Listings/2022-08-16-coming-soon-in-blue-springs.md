@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/alger-cs-branded.png
+youtube_alternate_image: /uploads/alger-jl-branded.png
 youtube_code: SEY-QzzjcOw
 hidden: false
 ---
