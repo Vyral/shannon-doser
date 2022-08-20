@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JUST LISTED!!!
+title: JUST LISTED & OPEN HOUSES!
 date: 2022-08-18 09:00:00
 tags:
   - Real Estate
@@ -20,6 +20,11 @@ hidden: false
 ## 425 SE Alger Dr., Blue Springs, MO 64014
 
 ### Updated Home with New Roof and Finished Walkout Lower Level\!<br>&nbsp;
+
+**Join us for one of the Open Houses:**
+
+* Sat 8/20, 10am-12pm, hosted by Michele Harlow
+* Sun 8/21, 1-3pm, hosted by Chandra Ward
 
 Welcome home to [425 SE Alger Drive](http://Alger.LivianKC.com){: target="_blank" rel="noopener"} in the Moreland Village community of Blue Springs, a wonderful home boasting three bedrooms, two full plus one half bathrooms, and 1,723 square feet of fabulous living space. Highlights include a new roof, beautiful kitchen with granite counters, hardwoods, and reverse osmosis water purification system, vaulted great room with fireplace and luxury vinyl plank flooring, a finished walkout lower level with wet bar, updated bathrooms with granite counters, water softener system, Vivint smart home alarm system, privacy fenced yard, large raised deck, and an extra deep garage\! This gem is also conveniently located to shopping and is in the highly rated, award winning Blue Springs School District.
 
