@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/sumac-jl--oh.png
+youtube_alternate_image: /uploads/sumac-jl--oh-1.png
 youtube_code: wSUvfgFG2PM
 hidden: false
 ---
