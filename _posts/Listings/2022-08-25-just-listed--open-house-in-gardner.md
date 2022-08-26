@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JUST LISTED & OPEN HOUSE in Gardner!
+title: JUST LISTED!
 date: 2022-08-25 00:00:00
 tags:
 excerpt: See all the details at Sumac.LivianKC.com
@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/sumac-jl--oh-1.png
+youtube_alternate_image: /uploads/sumac-oh-cancelled.png
 youtube_code: wSUvfgFG2PM
 hidden: false
 ---
@@ -17,9 +17,9 @@ hidden: false
 
 ### So Many Updates in this Charming Willow Springs Home\!
 
-🕛 JUST LISTED WITH OPEN HOUSE SATURDAY 🕛&nbsp;<br>UPDATED GEM located on a quiet, safe, family-oriented street, just walking distance from award winning Johnson County schools\!
+🕛 **UPDATE: OPEN HOUSE CANCELLED - UNDER CONTRACT IN 1 DAY** 🕛&nbsp;
 
-🎈 OPEN HOUSE: Saturday, 8/27, 1-3pm -- we look forward to seeing you there\!
+UPDATED GEM located on a quiet, safe, family-oriented street, just walking distance from award winning Johnson County schools\!
 
 Welcome home to [683 South Sumac Street](http://sumac.liviankc.com){: target="_blank" rel="noopener"} in Gardner's Willow Springs community on a quiet, safe, family-oriented street, just walking distance from award winning Johnson County schools.
 
