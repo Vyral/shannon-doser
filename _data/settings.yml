@@ -1,8 +1,8 @@
 audit_header: false
 title: Kansas City Real Estate
 description: >-
-  Our mission at Livian Kansas is to be your best resource for Kansas City real
-  estate advice. Whether you are a buyer, seller, or investor, our team of
+  Our mission at Livian Kansas City is to be your best resource for Kansas City
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
   professionals can answer any questions you might have about real estate. If
   you are looking to buy or sell a home, you can get all the information and the
   latest updates, tips, and tricks from the Livian Kansas team, your
@@ -61,7 +61,7 @@ client:
 
 
     Shannon
-  brand: Livian Kansas
+  brand: Livian Kansas City
   brokerage:
   market: Kansas City
   address: 6850 College Blvd, Overland Park, KS 66211
@@ -146,10 +146,10 @@ images:
   post_cta_image2: /img/home-search.jpg
 site_colors:
   brand_color: '#000000'
-  accent_color: '#b40101'
-  theme_color: '#050708'
-  theme_text_color: '#5d9bd3'
-  main_body_color: '#ffffff'
+  accent_color: '#f3e20f'
+  theme_color: '#f3e20f'
+  theme_text_color: '#f3e20f'
+  main_body_color: '#f7f017'
   main_body_text_color: '#353535'
 header_shadow:
   h_shadow: 0px
