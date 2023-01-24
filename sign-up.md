@@ -5,13 +5,16 @@ permalink: /sign-up/
 ---
 <div class="recruiting-photo">
    <span class="client-image-container">
-    <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
+    <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image" />
   </span>
-<figcaption class="caption">{{site.data.settings.client.name}}, {{site.data.settings.client.title}}<br>
+<figcaption class="caption">{{site.data.settings.client.name}}, {{site.data.settings.client.title}}<br />
 {{site.data.settings.client.brand}}</figcaption>
 </div>
-<h1>{{site.data.settings.client.market}} Real Estate Community Newsletter</h1>
-<h5>How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
+
+# {{site.data.settings.client.market}} Real Estate Community Newsletter
+
+##### How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?
+
 <div class="recruiting-page">
 <p>Would you like to know what’s going on in (area)?</p>
 
