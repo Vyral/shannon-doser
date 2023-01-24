@@ -46,7 +46,7 @@ A lifelong love of homes and a fascination with residential architecture natural
 Honesty, integrity, and a passion for helping others are the core of Stephanie’s business philosophy. A native of Shawnee, KS and a graduate of Kansas State University, her love of family drew her back to KC to marry her husband, George. A mother of 3 daughters, Stephanie was licensed in 2018 and began her career with Shannon Doser Group.
 {: .testimonial}
 
-<div class="recruiting-photo">&nbsp;</div>
+<div class="recruiting-photo"> </div>
 
 ---
 
