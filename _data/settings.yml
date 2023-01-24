@@ -1,4 +1,4 @@
-audit_header: false
+audit_header:
 title: Kansas City Real Estate
 description: >-
   Our mission at Livian Kansas City is to be your best resource for Kansas City
@@ -19,7 +19,7 @@ custom_links:
     url: https://app.kw.com/KW2D828W
   - title: New Construction
     url: /new-construction/
-show_custom_links_new_tab: false
+show_custom_links_new_tab: true
 custom_links_new_tab:
   - title:
     url:
@@ -145,11 +145,11 @@ images:
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
 site_colors:
-  brand_color: '#000000'
-  accent_color: '#f3e20f'
+  brand_color: '#f1ea0e'
+  accent_color: '#fbfaef'
   theme_color: '#f3e20f'
-  theme_text_color: '#f3e20f'
-  main_body_color: '#f7f7f5'
+  theme_text_color: '#121211'
+  main_body_color: '#f1f109'
   main_body_text_color: '#353535'
 header_shadow:
   h_shadow: 0px
