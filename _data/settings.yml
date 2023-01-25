@@ -146,9 +146,9 @@ images:
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
 site_colors:
-  brand_color: '#f1ea0e'
+  brand_color: '#161615'
   accent_color: '#fbfaef'
-  theme_color: '#f3e20f'
+  theme_color: '#10100f'
   theme_text_color: '#121211'
   main_body_color: '#fbfbf2'
   main_body_text_color: '#353535'
