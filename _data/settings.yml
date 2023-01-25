@@ -162,8 +162,8 @@ buttons:
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: rgba(0, 0, 0, 0)
+  button_background_color: '#141313'
   button_text_color: '#141413'
-  secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: rgba(0, 0, 0, 0)
+  secondary_button_border_color: '#100f0f'
+  secondary_button_background_color: '#161515'
   secondary_button_text_color: '#1b1a1a'
