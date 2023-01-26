@@ -57,9 +57,9 @@ Honesty, integrity, and a passion for helping others are the core of Stephanie�
 A native of Brooklyn, New York and as an only child, my parents instilled in me that if you want something in life, you must work for it. So, I did exactly that. I worked hard, but that’s not to say I didn’t have fun along the way! After my 15-years of service, I found myself longing to do something other than nursing, yet equally important. I discovered that I had a real passion for real estate. I became an agent because I believe I can add value to people’s lives in this capacity. As my career in real estate advanced, I found there was a real need to help the veterans in the Kansas City metropolitan area. I honed my market research and negotiation skills in that direction which proved to set me apart from other agents.
 {: .testimonial}
 
-> ![](/uploads/989-5.jpg){: width="1500" height="2100"}
+>
 
-### **Tatum **
+### Tatum&nbsp;
 
 Tatum grew up in Shawnee, Kansas and graduated from Mill Valley High School.&nbsp; In 2019, she earned her real estate license while attending the University of Kansas, which she graduated from in 2021.&nbsp; After graduating, she joined Livian Kansas City as a full-time Operations Coordinator.&nbsp; She currently lives in Shawnee with three roommates and her goldendoodle named Jovie.&nbsp;
 
