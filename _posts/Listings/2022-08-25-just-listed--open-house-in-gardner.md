@@ -1,16 +1,16 @@
 ---
 layout: post
 title: JUST LISTED!
-date: 2022-08-25 00:00:00
+date: 2023-03-10 00:00:00
 tags:
-excerpt: See all the details at Sumac.LivianKC.com
+excerpt: See all the details at https://kw.com/property/LST-7039862609370095616-9
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/sumac-oh-cancelled.png
-youtube_code: wSUvfgFG2PM
+youtube_alternate_image: /uploads/23703-w-54th-street-just-listed-1.png
+youtube_code:
 hidden: false
 ---
 ## 683 South Sumac St., Gardner, KS 66030
