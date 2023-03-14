@@ -66,7 +66,7 @@ A native of Brooklyn, New York and as an only child, my parents instilled in me 
 Tatum grew up in Shawnee, Kansas and graduated from Mill Valley High School.&nbsp; In 2019, she earned her real estate license while attending the University of Kansas, which she graduated from in 2021.&nbsp; After graduating, she joined Livian Kansas City as a full-time Operations Coordinator.&nbsp; She currently lives in Shawnee with three roommates and her goldendoodle named Jovie.&nbsp;
 {: .testimonial}
 
-![](/uploads/img-4622-1.jpg){: width="796" height="900"}
+![](/uploads/unnamed-2.png){: width="375" height="375"}
 
 ### **Danny Waite**
 
