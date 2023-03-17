@@ -70,6 +70,6 @@ Tatum grew up in Shawnee, Kansas and graduated from Mill Valley High School.&nbs
 
 ### **Danny Waite**
 
-Danny Waite is a highly experienced professional with a 20-year executive-level corporate background. Having moved his family six times in ten years, Danny understands the stress involved in the buying and selling process. He's committed to making the experience as stress-free and enjoyable as possible for his clients. Danny specializes in ensuring your residential, commercial, investment, luxury, and land real estate needs are met. With his extensive market knowledge and exceptional customer service skills, he strives to make every transaction a positive one.
+*Danny Waite is a highly experienced professional with a 20-year executive-level corporate background. Having moved his family six times in ten years, Danny understands the stress involved in the buying and selling process. He's committed to making the experience as stress-free and enjoyable as possible for his clients. Danny specializes in ensuring your residential, commercial, investment, luxury, and land real estate needs are met. With his extensive market knowledge and exceptional customer service skills, he strives to make every transaction a positive one*.
 
 ---
