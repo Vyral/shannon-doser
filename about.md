@@ -67,6 +67,9 @@ Tatum grew up in Shawnee, Kansas and graduated from Mill Valley High School.&nbs
 {: .testimonial}
 
 > ![](/uploads/unnamed-2.png){: width="375" height="375"}
+> {: .testimonial}
+
+>
 
 ### **Danny Waite**
 
